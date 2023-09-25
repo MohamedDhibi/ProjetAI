@@ -1,0 +1,2729 @@
+Plan
+Quality
+Management
+
+Quality templates 
+from organizational
+process assets
+
+Quality reports
+
+Control
+Quality
+
+Verified deliverables
+
+Manage
+Quality
+
+Validate
+Scope
+
+To Other
+Project
+Processes
+
+Project
+Integration
+Management
+
+Deliverables
+Work performance data
+
+Test and evaluate documents
+Quality reports
+
+Quality management
+plan
+Quality metrics
+
+Quality control 
+measurements
+Work performance 
+information
+
+N ot F or Distribution, S ale or R eproduction.
+
+Project  Quality  Management  addresses  the  management  of  the  project  and  the  deliverables  of  the  project.  It 
+applies to all projects, regardless of the nature of their deliverables. Quality measures and techniques are speciﬁc 
+to the type of deliverables being produced by the project. For example, the project quality management of software 
+deliverables may use different approaches and measures from those used when building a nuclear power plant. In 
+either case, failure to meet the quality requirements can have serious negative consequences for any or all of the 
+project’s stakeholders. For example:
+
+uu Meeting  project  schedule  objectives  by  rushing  planned  quality  inspections  may  result  in  undetected  errors, 
+
+uu Meeting customer requirements by overworking the project team may result in decreased proﬁts and increased 
+
+levels of overall project risks, employee attrition, errors, or rework.
+
+KEY CONCEPTS FOR PROJECT QUALITY MANAGEMENT
+
+decreased proﬁts, and increased post-implementation risks.
+
+Figure 8-2. Major Project Quality Management Process Interrelations
+
+273
+
+essence, a high-grade feature set would prove ineffective and/or inefﬁcient due to low quality.
+
+(no obvious defects). In this example, the product would be appropriate for its general purpose of use.
+
+uu Prevention (keeping errors out of the process) and inspection (keeping errors out of the hands of the customer);
+
+uu It may be a problem if a high-grade product (one with numerous features) is of low quality (many defects). In 
+
+uu It may not be a problem if a suitable low-grade product (one with a limited number of features) is of high quality 
+
+uu Attribute sampling (the result either conforms or does not conform) and variable sampling (the result is rated on 
+
+Quality and grade are not the same concepts. Quality as a delivered performance or result is “the degree to which a 
+set of inherent characteristics fulﬁll requirements” (ISO 9000 [18].). Grade as a design intent is a category assigned to 
+deliverables having the same functional use but different technical characteristics. The project manager and the project 
+management team are responsible for managing the trade-offs associated with delivering the required levels of both 
+quality and grade. While a quality level that fails to meet quality requirements is always a problem, a low-grade product 
+may not be a problem. For example:
+
+Depending on the project and the industry area, the project team may need a working knowledge of statistical control 
+processes to evaluate data contained in the Control Quality outputs. The team should know the differences between the 
+following pairs of terms:
+
+Prevention is preferred over inspection. It is better to design quality into deliverables, rather than to ﬁnd quality issues 
+during inspection. The cost of preventing mistakes is generally much less than the cost of correcting mistakes when 
+they are found by inspection or during usage.
+
+N ot F or Distribution, S ale or R eproduction.
+
+The  cost  of  quality  (COQ)  includes  all  costs  incurred  over  the  life  of  the  product  by  investment  in  preventing 
+nonconformance to requirements, appraising the product or service for conformance to requirements, and failing to 
+meet requirements (rework). Failure costs are often categorized into internal (found by the project team) and external 
+(found by the customer). Failure costs are also called the cost of poor quality. Section 8.1.2.3 provides some examples 
+to consider in each area. Organizations choose to invest in defect prevention because of the beneﬁts over the life of the 
+product. Because projects are temporary, decisions about the COQ over a product’s life cycle are often the concern of 
+program management, portfolio management, the PMO, or operations.
+
+uu Tolerances (speciﬁed range of acceptable results) and control limits (that identify the boundaries of common 
+
+variation in a statistically stable process or process performance).
+
+a continuous scale that measures the degree of conformity); and
+
+274 
+
+Part 1 - Guide
+
+There are ﬁve levels of increasingly effective quality management as follows:
+
+uu Usually, the most expensive approach is to let the customer ﬁnd the defects. This approach can lead to warranty 
+
+issues, recalls, loss of reputation, and rework costs.
+
+uu Incorporate quality into the planning and designing of the project and product.
+
+TRENDS AND EMERGING PRACTICES IN PROJECT QUALITY MANAGEMENT
+
+stakeholder requirements. Trends in Project Quality Management include but are not limited to:
+
+uu Use quality assurance to examine and correct the process itself and not just special defects.
+
+uu Create a culture throughout the organization that is aware and committed to quality in processes and products.
+
+Modern  quality  management  approaches  seek  to  minimize  variation  and  to  deliver  results  that  meet  deﬁned 
+
+uu Detect and correct the defects before the deliverables are sent to the customer as part of the quality control 
+process. The  control  quality  process  has  related  costs,  which  are  mainly  the  appraisal  costs  and  internal 
+failure costs.
+
+uu Customer satisfaction. Understand, evaluate, deﬁne, and manage requirements so that customer expectations 
+are met. This requires a combination of conformance to requirements (to ensure the project produces what it 
+was created to produce) and ﬁtness for use (the product or service needs to satisfy the real needs). In agile 
+environments, stakeholder engagement with the team ensures customer satisfaction is maintained throughout 
+the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Mutually  beneficial  partnership  with  suppliers.  An  organization  and  its  suppliers  are  interdependent. 
+Relationships based on partnership and cooperation with the supplier are more beneﬁcial to the organization and 
+to the suppliers than traditional supplier management. The organization should prefer long-term relationships 
+over short-term gains. A mutually beneﬁcial relationship enhances the ability for both the organization and the 
+suppliers to create value for each other, enhances the joint responses to customer needs and expectations, and 
+optimizes costs and resources.
+
+uu Continual improvement. The plan-do-check-act (PDCA) cycle is the basis for quality improvement as deﬁned by 
+Shewhart and modiﬁed by Deming. In addition, quality improvement initiatives such as total quality management 
+(TQM), Six Sigma, and Lean Six Sigma may improve both the quality of project management, as well as the 
+quality of the end product, service, or result.
+
+uu Management  responsibility.  Success  requires  the  participation  of  all  members  of  the  project  team. 
+Management retains, within its responsibility for quality, a related responsibility to provide suitable resources 
+at adequate capacities.
+
+275
+
+TAILORING CONSIDERATIONS
+
+Each  project  is  unique;  therefore,  the  project  manager  will  need  to  tailor  the  way  Project  Quality  Management 
+
+processes are applied. Considerations for tailoring include but are not limited to:
+
+rather than toward the end of the project.
+
+organizational level or at the level of each project?
+
+tools, techniques, and templates are used in the organization?
+
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+uu Stakeholder engagement. Is there a collaborative environment for stakeholders and suppliers?
+
+In order to navigate changes, agile methods call for frequent quality and review steps built in throughout the project 
+
+uu Continuous  improvement.  How  will  quality  improvement  be  managed  in  the  project?  Is  it  managed  at  the 
+
+uu Policy compliance and auditing. What quality policies and procedures exist in the organization? What quality 
+
+uu Standards and regulatory compliance. Are there any speciﬁc quality standards in the industry that need to be 
+applied? Are there any speciﬁc governmental, legal, or regulatory constraints that need to be taken into consideration?
+
+Recurring retrospectives regularly check on the effectiveness of the quality processes. They look for the root cause of 
+issues then suggest trials of new approaches to improve quality. Subsequent retrospectives evaluate any trial processes 
+to determine if they are working and should be continued or new adjusting or should be dropped from use.
+
+N ot F or Distribution, S ale or R eproduction.
+
+In order to facilitate frequent, incremental delivery, agile methods focus on small batches of work, incorporating as 
+many elements of project deliverables as possible. Small batch systems aim to uncover inconsistencies and quality 
+issues earlier in the project life cycle when the overall costs of change are lower.
+
+276 
+
+Part 1 - Guide
+
+8.1 PLAN QUALI TY MANAGEMENT
+
+plan
+
+matrix
+
+Inputs
+
+Outputs
+
+.5  Data representation
+
+•  Requirements traceability
+
+Tools & Techniques
+
+.1  Expert judgment
+.2  Data gathering
+
+•  Multicriteria decision
+  analysis
+
+•  Risk management plan
+•  Scope baseline
+
+Plan Quality Management
+
+.1  Project charter
+.2  Project management plan
+
+•  Cost-benefit analysis
+•  Cost of quality
+.4  Decision making
+
+•  Benchmarking
+•  Brainstorming
+•  Interviews
+.3  Data analysis
+
+.4  Project documents updates
+•  Lessons learned register
+•  Requirements traceability
+
+•  Scope baseline
+.3  Project documents
+•  Assumption log
+•  Requirements
+documentation
+
+•  Requirements management
+  plan
+•  Risk management plan
+•  Stakeholder engagement
+
+.1  Quality management plan
+.2  Quality metrics
+.3  Project management plan  
+  updates
+
+Plan Quality Management is the process of identifying quality requirements and/or standards for the project and its 
+deliverables, and documenting how the project will demonstrate compliance with quality requirements and/or standards. 
+The key beneﬁt of this process is that it provides guidance and direction on how quality will be managed and veriﬁed 
+throughout the project. This process is performed once or at predeﬁned points in the project. The inputs and outputs of 
+this process are depicted in Figure 8.3. Figure 8.4 depicts the data ﬂow diagram for the process.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Figure 8-3. Plan Quality Management: Inputs, Tools & Techniques, and Outputs
+
+•  Risk register
+•  Stakeholder register 
+.4  Enterprise environmental  
+
+•  Flowcharts
+•  Logical data model
+•  Matrix diagrams
+•  Mind mapping
+
+.6  Test and inspection planning
+.7  Meetings
+
+•  Risk register
+•  Stakeholder register
+
+.5  Organizational process assets
+
+factors
+
+matrix
+
+277
+
+ 
+ 
+ 
+4.1
+Develop
+Project
+Charter
+
+•  Project charter
+
+• Quality metrics
+
+• Project
+   charter
+
+• Quality management plan
+
+Project
+Documents
+
+Project
+Documents
+
+Enterprise/
+Organization
+
+Project
+Management
+Plan
+
+Project
+Management
+Plan
+
+8.1
+Plan Quality
+Management
+
+Project management plan updates
+• Risk management plan
+• Scope baseline
+
+Project management plan
+•  Requirements management plan
+•  Risk management plan
+•  Stakeholder engagement plan
+•  Scope baseline
+
+Project documents
+•  Assumption log
+•  Requirements documentation
+•  Requirements traceability matrix
+•  Risk register
+•  Stakeholder register
+
+N ot F or Distribution, S ale or R eproduction.
+
+Quality planning should be performed in parallel with the other planning processes. For example, changes proposed 
+in the deliverables in order to meet identiﬁed quality standards may require cost or schedule adjustments and a detailed 
+risk analysis of the impact to plans.
+
+The quality planning techniques discussed here are those used most frequently on projects. There are many others 
+
+that may be useful on certain projects or in speciﬁc application areas.
+
+Project documents updates
+• Lessons learned register
+• Requirements traceability matrix
+• Risk register
+• Stakeholder register
+
+Figure 8-4. Plan Quality Management: Data Flow Diagram
+
+•  Enterprise environmental factors
+•  Organizational process assets
+
+278 
+
+Part 1 - Guide
+
+8.1.1 PLAN QUALITY MANAGEMENT: INPUTS
+
+8.1.1.1 PROJECT CHARTER
+
+8.1.1.2 PROJECT MANAGEMENT PLAN
+
+Described in Section 4.2.3.1. Project management plan components include but are not limited to:
+
+uu Risk management plan. Described in Section 11.1.3.1. The risk management plan provides the approach for 
+identifying, analyzing, and monitoring risks. The information in the risk management plan and quality management 
+plan work together to successfully deliver product and project success.
+
+uu Stakeholder  engagement  plan.  Described  in  Section  13.2.3.1. The  stakeholder  engagement  plan  provides 
+the method for documenting the stakeholders’ needs and expectations that provide the foundation for quality 
+management.
+
+uu Requirements management plan. Described in Section 5.1.3.2. The requirements management plan provides 
+the approach for identifying, analyzing, and managing the requirements that the quality management plan and 
+quality metrics will reference.
+
+Described in Section 4.1.3.1. The project charter provides the high-level project description and product characteristics. 
+It also contains the project approval requirements, measurable project objectives, and related success criteria that will 
+inﬂuence the quality management of the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Scope baseline. Described in Section 5.4.3.1. The WBS along with the deliverables documented in the project 
+scope statement are considered while determining which quality standards and objectives are suitable for the 
+project, and which project deliverables and processes will be subjected to quality review. The scope statement 
+includes  the  acceptance  criteria  for  the  deliverables.  The  deﬁnition  of  acceptance  criteria  may  signiﬁcantly 
+increase or decrease quality costs and, therefore, project costs. Satisfying all acceptance criteria implies the 
+needs of the stakeholders have been met.
+
+279
+
+8.1.1.3 PROJECT DOCUMENTS
+
+Project documents that can be considered as inputs for this process include but are not limited to:
+
+that may impact quality requirements.
+
+8.1.1.4 ENTERPRISE ENVIRONMENTAL FACTORS
+
+regarding quality requirements and standard compliance.
+
+uu Assumption  log.  Described  in  Section  4.1.3.2. The  assumption  log  has  all  the  assumptions  and  constraints 
+
+The enterprise environmental factors that can inﬂuence the Plan Quality Management process include but are not 
+
+uu Risk register. Described in Section 11.2.3.1. The risk register contains information on threats and opportunities 
+
+uu Requirements  traceability  matrix.  Described  in  Section  5.2.3.2. The  requirements  traceability  matrix  links 
+product requirements to deliverables and helps to ensure each requirement in the requirements documentation 
+is tested. The matrix provides an overview of the tests required to verify the requirements.
+
+uu Stakeholder register. Described in Section 13.1.3.1. The stakeholder register helps to identify stakeholders who 
+have a particular interest in or impact on quality, with the emphasis on the customer and project sponsor needs 
+and expectations.
+
+uu Requirements  documentation.  Described  in  Section  5.2.3.1.  Requirements  documentation  captures  the 
+requirements  that  the  project  and  product  should  attain  to  meet  stakeholder  expectations. The  components 
+of  the  requirements  documentation  include  but  are  not  limited  to  project  and  product  quality  requirements. 
+Requirements are used by the project team to help plan how quality control will be implemented on the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Working or operating conditions of the project or its deliverables; and
+
+uu Rules, standards, and guidelines speciﬁc to the application area;
+
+uu Governmental agency regulations;
+
+uu Organizational structure;
+
+uu Marketplace conditions;
+
+uu Geographic distribution;
+
+uu Cultural perceptions.
+
+limited to:
+
+280 
+
+Part 1 - Guide
+
+8.1.1.5 ORGANIZATIONAL PROCESS ASSETS
+
+The organizational process assets that can inﬂuence the Plan Quality Management process include but are not 
+
+limited to:
+
+uu Quality control,
+
+uu Quality assurance,
+
+uu Quality measurements,
+
+8.1.2.1 EXPERT JUDGMENT
+
+uu Quality improvements, and
+
+or training in the following topics:
+
+uu Historical databases and lessons learned repository.
+
+8.1.2 PLAN QUALITY MANAGEMENT: TOOLS AND TECHNIQUES
+
+uu Quality templates such as check sheets, traceability matrix, and others; and
+
+uu Organizational quality management system including policies, procedures, and guidelines;
+
+Described in Section 4.1.2.1. Expertise should be considered from individuals or groups with specialized knowledge 
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Benchmarking. Benchmarking involves comparing actual or planned project practices or the project’s quality 
+standards to those of comparable projects to identify best practices, generate ideas for improvement, and provide 
+a  basis  for  measuring  performance.  Benchmarked  projects  may  exist  within  the  performing  organization  or 
+outside  of  it,  or  can  be  within  the  same  application  area  or  other  application  area.  Benchmarking  allows  for 
+analogies from projects in a different application area or different industries to be made.
+
+uu Brainstorming. Described in Section 4.1.2.2. Brainstorming can be used to gather data creatively from a 
+group of team members or subject matter experts to develop the quality management plan that best fits 
+the upcoming project.
+
+Data-gathering techniques that can be used for this process include but are not limited to:
+
+8.1.2.2 DATA GATHERING
+
+uu Quality systems.
+
+281
+
+the speciﬁc project.
+
+8.1.2.3 DATA ANALYSIS
+
+uu Interviews.  Described  in  Section  5.2.2.2.  Project  and  product  quality  needs  and  expectations,  implicit  and 
+explicit, formal and informal, can be identiﬁed by interviewing experienced project participants, stakeholders, 
+and subject matter experts. Interviews should be conducted in an environment of trust and conﬁdentiality to 
+encourage honest and unbiased contributions.
+
+(Figure 8-5 lists examples for each cost group):
+
+Data analysis techniques that can be used for this process include but are not limited to:
+
+un Failure costs (internal/external). Costs related to nonconformance of the products, deliverables, or services to 
+
+un Appraisal costs. Costs related to evaluating, measuring, auditing, and testing the products, deliverables, or 
+
+un Prevention costs. Costs related to the prevention of poor quality in the products, deliverables, or services of 
+
+uu Cost of quality. The cost of quality (COQ) associated with a project consists of one or more of the following costs 
+
+uu Cost-benefit analysis. A cost-beneﬁt analysis is a ﬁnancial analysis tool used to estimate the strengths and 
+weaknesses  of  alternatives  in  order  to  determine  the  best  alternative  in  terms  of  beneﬁts  provided. A  cost-
+beneﬁt analysis will help the project manager determine if the planned quality activities are cost effective. The 
+primary beneﬁts of meeting quality requirements include less rework, higher productivity, lower costs, increased 
+stakeholder satisfaction, and increased proﬁtability. A cost-beneﬁt analysis for each quality activity compares the 
+cost of the quality step to the expected beneﬁt.
+
+N ot F or Distribution, S ale or R eproduction.
+
+The optimal COQ is one that reﬂects the appropriate balance for investing in the cost of prevention and appraisal 
+to avoid failure costs. Models show that there is an optimal quality cost for projects, where investing in additional 
+prevention/appraisal costs is neither beneﬁcial nor cost effective.
+
+the needs or expectations of the stakeholders.
+
+services of the speciﬁc project.
+
+282 
+
+Part 1 - Guide
+
+Cost of Conformance
+
+Cost of Nonconformance
+
+Figure 8-5. Cost of Quality
+
+8.1.2.4 DECISION MAKING
+
+Money spent during the project
+to avoid failures
+
+Money spent during and after
+the project because of failures
+
+Internal Failure Costs
+(Failures found by the project)
+• Rework
+• Scrap
+
+Appraisal Costs
+(Assess the quality)
+• Testing
+• Destructive testing loss
+• Inspections
+
+Prevention Costs
+(Build a quality product)
+• Training
+• Document processes
+• Equipment
+• Time to do it right
+
+External Failure Costs
+(Failures found by the customer)
+• Liabilities
+• Warranty work
+• Lost business
+
+N ot F or Distribution, S ale or R eproduction.
+
+A decision-making technique that can be used for this process includes but is not limited to multicriteria decision 
+analysis.  Multicriteria  decision  analysis  tools  (e.g.,  prioritization  matrix)  can  be  used  to  identify  the  key  issues  and 
+suitable  alternatives  to  be  prioritized  as  a  set  of  decisions  for  implementation.  Criteria  are  prioritized  and  weighted 
+before being applied to all available alternatives to obtain a mathematical score for each alternative. The alternatives 
+are then ranked by score. As used in this process, it can help prioritize quality metrics.
+
+283
+
+8.1.2.5 DATA REPRESENTATION
+
+Data representation techniques that can be used for this process include but are not limited to:
+
+uu Logical data model. Logical data models are a visual representation of an organization’s data, described in 
+business language and independent of any speciﬁc technology. The logical data model can be used to identify 
+where data integrity or other quality issues can arise.
+
+uu Matrix diagrams. Matrix diagrams help ﬁnd the strength of relationships among different factors, causes, and 
+objectives that exist between the rows and columns that form the matrix. Depending on how many factors 
+may be compared, the project manager can use different shapes of matrix diagrams; for example, L, T, Y, X, C, 
+and roof–shaped. In this process they facilitate identifying the key quality metrics that are important for the 
+success of the project.
+
+uu Flowcharts.  Flowcharts  are  also  referred  to  as  process  maps  because  they  display  the  sequence  of  steps 
+and the branching possibilities that exist for a process that transforms one or more inputs into one or more 
+outputs. Flowcharts show the activities, decision points, branching loops, parallel paths, and the overall order 
+of processing by mapping the operational details of procedures that exist within a horizontal value chain. One 
+version of a value chain, known as a SIPOC (suppliers, inputs, process, outputs, and customers) model, is shown 
+in Figure 8-6. Flowcharts may prove useful in understanding and estimating the cost of quality for a process. 
+Information is obtained by using the workﬂow branching logic and associated relative frequencies to estimate 
+the expected monetary value for the conformance and nonconformance work required to deliver the expected 
+conforming output. When ﬂowcharts are used to represent the steps in a process, they are sometimes called 
+process ﬂows or process ﬂow diagrams and they can be used for process improvement as well as identifying 
+where quality defects can occur or where to incorporate quality checks.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Mind  mapping.  Described  in  Section  5.2.2.3.  Mind  mapping  is  a  diagrammatic  method  used  to  visually 
+organizing information. A mind map in quality is often created around a single quality concept, drawn as an 
+image in the center of a blank landscape page, to which associated representations of ideas such as images, 
+words, and parts of words are added. The mind-mapping technique may help in the rapid gathering of project 
+quality requirements, constraints, dependencies, and relationships.
+
+284 
+
+Part 1 - Guide
+
+Suppliers
+
+Inputs
+
+Process
+
+Outputs
+
+Customers
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+INPUT
+
+OUTPUT
+
+PROCESS
+
+SUPPLIER
+
+CUSTOMER
+
+Requirements List 
+
+Requirements List 
+
+Measurements List
+
+Measurements List
+
+Requirements and
+Feedback Loop
+
+Requirements and
+Feedback Loop
+
+NOTE: The components of this diagram are flexible and can take any direction depending upon the circumstance.
+
+N ot F or Distribution, S ale or R eproduction.
+
+During the planning phase, the project manager and the project team determine how to test or inspect the product, 
+deliverable,  or  service  to  meet  the  stakeholders’  needs  and  expectations,  as  well  as  how  to  meet  the  goal  for  the 
+product’s performance and reliability. The tests and inspections are industry dependent and can include, for example, 
+alpha and beta tests in software projects, strength tests in construction projects, inspection in manufacturing, and ﬁeld 
+tests and nondestructive tests in engineering.
+
+8.1.2.6 TEST AND INSPE CTION PLANNING
+
+Figure 8-6. The SIPOC Model
+
+•
+
+•
+
+285
+
+8.1.2.7 MEETINGS
+
+8.1.3.1 QUALITY MANAGEMENT PLAN
+
+uu Quality standards that will be used by the project;
+
+8.1.3 PLAN QUALITY MANAGEMENT: OUTPUTS
+
+The quality management plan may include but is not limited to the following components:
+
+Project  teams  may  hold  planning  meetings  to  develop  the  quality  management  plan. Attendees  can  include  the 
+project manager, the project sponsor, selected project team members, selected stakeholders, anyone with responsibility 
+for project quality management activities, and others as needed.
+
+The  quality  management  plan  is  a  component  of  the  project  management  plan  that  describes  how  applicable 
+policies, procedures, and guidelines will be implemented to achieve the quality objectives. It describes the activities 
+and  resources  necessary  for  the  project  management  team  to  achieve  the  quality  objectives  set  for  the  project. 
+The quality management plan may be formal or informal, detailed, or broadly framed. The style and detail of the 
+quality management plan are determined by the requirements of the project. The quality management plan should 
+be reviewed early in the project to ensure that decisions are based on accurate information. The beneﬁts of this 
+review can include a sharper focus on the project’s value proposition, reductions in costs, and less frequent schedule 
+overruns that are caused by rework.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Major procedures relevant for the project, such as dealing with nonconformance, corrective actions procedures, 
+
+uu Quality control and quality management activities planned for the project;
+
+uu Project deliverables and processes subject to quality review;
+
+uu Quality tools that will be used for the project; and
+
+and continuous improvement procedures.
+
+uu Quality roles and responsibilities;
+
+uu Quality objectives of the project;
+
+286 
+
+Part 1 - Guide
+
+8.1.3.2 QUALITY METRICS
+
+8.1.3.4 PROJECT DOCUMENTS UPDATES
+
+8.1.3.3 PROJECT MANAGEMENT PLAN UPDATES
+
+Any change to the project management plan goes through the organization’s change control process via a change 
+request. Components that may require a change request for the project management plan include but are not limited to:
+
+uu Scope baseline. Described in Section 5.4.3.1. The scope baseline may change as a result of this process if 
+speciﬁc quality management activities need to be added. The WBS dictionary also records quality requirements, 
+which may need updating.
+
+uu Risk management plan. Described in Section 11.1.3.1. Decisions on the quality management approach may 
+require changes to the agreed-upon approach to managing risk on the project, and these will be recorded in the 
+risk management plan.
+
+A quality metric specifically describes a project or product attribute and how the Control Quality process will 
+verify compliance to it. Some examples of quality metrics include percentage of tasks completed on time, cost 
+performance measured by CPI, failure rate, number of defects identified per day, total downtime per month, errors 
+found per line of code, customer satisfaction scores, and percentage of requirements covered by the test plan as 
+a measure of test coverage.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Risk register. Described in Section 11.2.3.1. New risks identiﬁed during this process are recorded in the risk 
+
+uu Stakeholder register. Described in Section 13.1.3.1. Where additional information on existing or new stakeholders 
+
+uu Lessons learned register. Described in Section 4.4.3.1. The lessons learned register is updated with information 
+
+uu Requirements traceability matrix. Described in Section 5.2.3.2. Where quality requirements are speciﬁed by 
+
+Project documents that may be updated as a result of carrying out this process include but are not limited to:
+
+is gathered as a result of this process, it is recorded in the stakeholder register.
+
+this process, they are recorded in the requirements traceability matrix.
+
+register and managed using the risk management processes.
+
+on challenges encountered in the quality planning process.
+
+287
+
+8.2 MANAGE QUALI TY
+
+Inputs
+
+Outputs
+
+.3  Decision making
+
+.2  Project documents
+
+•  Quality management plan
+
+.1  Project management plan
+
+Tools & Techniques
+
+.3  Organizational process assets
+
+Manage Quality
+
+ﬂow diagram of the process.
+
+.1  Data gathering
+•  Checklists
+.2  Data analysis
+
+•  Alternatives analysis
+•  Document analysis
+•  Process analysis
+•  Root cause analysis
+
+•  Lessons learned register
+•  Quality control
+measurements
+•  Quality metrics
+•  Risk report
+
+.1  Quality reports
+.2  Test and evaluation  
+  documents
+.3  Change requests
+.4  Project management plan  
+  updates
+
+The inputs, tools and techniques, and outputs of this process are depicted in Figure 8-7. Figure 8-8 depicts the data 
+
+Manage  Quality  is  the  process  of  translating  the  quality  management  plan  into  executable  quality  activities  that 
+incorporate the organization’s quality policies into the project. The key beneﬁts of this process are that it increases 
+the probability of meeting the quality objectives as well as identifying ineffective processes and causes of poor quality. 
+Manage Quality uses the data and results from the control quality process to reﬂect the overall quality status of the 
+project to the stakeholders. This process is performed throughout the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+.4  Data representation
+•  Affinity diagrams
+•  Cause-and-effect diagrams
+•  Flowcharts
+•  Histograms
+•  Matrix diagrams
+•  Scatter diagrams
+
+.5  Audits
+.6  Design for X
+.7  Problem solving
+.8  Quality improvement methods
+
+•  Quality management plan
+•  Scope baseline
+•  Schedule baseline
+•  Cost baseline
+
+•  Issue log
+•  Lessons learned register
+•  Risk register
+
+Figure 8-7. Manage Quality: Inputs, Tools & Techniques, and Outputs
+
+•  Multicriteria decision
+  analysis
+
+.5  Project documents updates
+
+288 
+
+Part 1 - Guide
+
+ 
+4.6
+Perform
+Integrated
+Change Control
+
+documents
+
+• Change requests
+
+• Project
+   charter
+
+•  Organizational process assets
+
+Project
+Documents
+
+Project
+Documents
+
+Enterprise/
+Organization
+
+8.2
+ Manage
+Quality
+
+• Quality reports
+• Test and evaluation 
+
+Project management plan
+•  Quality management plan
+
+Project
+Management
+Plan
+
+Project
+Management
+Plan
+
+Project documents updates
+• Issue log
+• Lessons learned register
+• Risk register
+
+Project documents
+•  Lessons learned register
+•  Quality control measurements
+•  Quality metrics
+•  Risk report
+
+Project management plan updates
+• Quality management plan
+• Scope baseline
+• Schedule baseline
+• Cost baseline
+
+N ot F or Distribution, S ale or R eproduction.
+
+Manage Quality is sometimes called quality assurance, although Manage Quality has a broader deﬁnition than quality 
+assurance as it is used in nonproject work. In project management, the focus of quality assurance is on the processes 
+used in the project. Quality assurance is about using project processes effectively. It involves following and meeting 
+standards to assure stakeholders that the ﬁnal product will meet their needs, expectations, and requirements. Manage 
+Quality includes all the quality assurance activities, and is also concerned with the product design aspects and process 
+improvements. Manage Quality work will fall under the conformance work category in the cost of quality framework.
+
+Figure 8-8. Manage Quality: Data Flow Diagram
+
+289
+
+The Manage Quality process implements a set of planned and systematic acts and processes deﬁned within the 
+
+project’s quality management plan that helps to:
+
+uu Design an optimal and mature product by implementing speciﬁc design guidelines that address speciﬁc aspects 
+
+of the product,
+
+and enhance stakeholders’ satisfaction.
+
+expectations through quality assurance tools and techniques such as quality audits and failure analysis,
+
+uu Conﬁrm that the quality processes are used and that their use meets the quality objectives of the project, and
+
+uu Improve the efﬁciency and effectiveness of processes and activities to achieve better results and performance 
+
+uu Build conﬁdence that a future output will be completed in a manner that meets the speciﬁed requirements and 
+
+The project manager and project team may use the organization’s quality assurance department, or other organizational 
+functions, to execute some of the Manage Quality activities such as failure analysis, design of experiments, and quality 
+improvement. Quality assurance departments usually have cross-organizational experience in using quality tools and 
+techniques and are a good resource for the project.
+
+Manage Quality is considered the work of everybody—the project manager, the project team, the project sponsor, the 
+management of the performing organization, and even the customer. All of these have roles in managing quality in the 
+project, though the roles differ in size and effort. The level of participation in the quality management effort may differ 
+between industries and project management styles. In agile projects, quality management is performed by all team 
+members throughout the project, but in traditional projects, quality management is often the responsibility of speciﬁc 
+team members.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Described  in  Section  4.2.3.1.  Project  management  plan  components  include  but  are  not  limited  to  the  quality 
+management plan. Described in Section 8.1.3.1, the quality management plan deﬁnes the acceptable level of project 
+and  product  quality  and  describes  how  to  ensure  this  level  of  quality  in  its  deliverables  and  processes. The  quality 
+management plan also describes what to do with nonconforming products and what corrective action to implement.
+
+8.2.1 MANAGE QUALITY: INPUTS
+
+8.2.1.1 PROJECT MANAGEMENT PLAN
+
+290 
+
+Part 1 - Guide
+
+8.2.1.2 PROJECT DOCUMENTS
+
+Project documents that can be considered as inputs for this process include but are not limited to:
+
+8.2.1.3 ORGANIZATIONAL PROCESS ASSETS
+
+uu Organizational quality management system that includes policies, procedures, and guidelines;
+
+The organizational process assets that can inﬂuence the Manage Quality process include but are not limited to:
+
+uu Lessons learned register. Described in Section 4.4.3.1. Lessons learned earlier in the project with regard to 
+managing quality can be applied to later phases in the project to improve the efﬁciency and effectiveness of 
+managing quality.
+
+uu Quality metrics. Described in Section 8.1.3.2. Quality metrics are veriﬁed as part of the Control Quality process. 
+The Manage Quality process uses these quality metrics as a basis for the development of test scenarios for the 
+project and its deliverables and as a basis for improvement initiatives.
+
+uu Risk report. Described in Section 11.2.3.2. Risk report is used in the Manage Quality process to identify sources 
+of overall project risk and the most important drivers of overall risk exposure that can impact the quality objectives 
+of the project.
+
+uu Quality control measurements. Described in Section 8.3.3.1. Quality control measurements are used to analyze 
+and evaluate the quality of the processes and deliverables of the project against the standards of the performing 
+organization or the requirements speciﬁed. Quality control measurements can also compare the processes used 
+to create the measurements and validate actual measurements to determine their level of correctness.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Quality templates such as check sheets, traceability matrix, test plans, test documents, and others;
+
+uu Lessons learned repository with information from similar projects.
+
+uu Results from previous audits; and
+
+291
+
+8.2.2 MANAGE QUALITY: TOOLS AND TECHNIQUES
+
+8.2.2.1 DATA GATHERING
+
+8.2.2.2 DATA ANALYSIS
+
+to select which different quality options or approaches are most appropriate to use.
+
+Data analysis techniques that can be used for this process include but are not limited to:
+
+uu Alternatives analysis. Described in Section 9.2.2.5. This technique is used to evaluate identiﬁed options in order 
+
+uu Document  analysis.  Described  in  Section  5.2.2.3. The  analysis  of  different  documents  produced  as  part  of 
+the output of project control processes, such as quality reports, test reports, performance reports, and variance 
+analysis,  can  point  to  and  focus  on  processes  that  may  be  out  of  control  and  may  jeopardize  meeting  the 
+speciﬁed requirements or stakeholders’ expectations.
+
+A data-gathering technique that can be used for this process includes but is not limited to checklists (see Section 
+11.2.2.2). A checklist is a structured tool, usually component-speciﬁc, used to verify that a set of required steps has 
+been  performed  or  to  check  if  a  list  of  requirements  has  been  satisﬁed.  Based  on  the  project’s  requirements  and 
+practices, checklists may be simple or complex. Many organizations have standardized checklists available to ensure 
+consistency in frequently performed tasks. In some application areas, checklists are also available from professional 
+associations or commercial service providers. Quality checklists should incorporate the acceptance criteria included in 
+the scope baseline.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Root cause analysis (RCA). Root cause analysis is an analytical technique used to determine the basic underlying 
+reason that causes a variance, defect, or risk. A root cause may underlie more than one variance, defect, or risk. It 
+may also be used as a technique for identifying root causes of a problem and solving them. When all root causes 
+for a problem are removed, the problem does not recur.
+
+uu Process  analysis.  Process  analysis  identiﬁes  opportunities  for  process  improvements.  This  analysis  also 
+
+examines problems, constraints, and non-value-added activities that occur during a process.
+
+292 
+
+Part 1 - Guide
+
+8.2.2.3 DECISION MAKING
+
+8.2.2.4 DATA REPRESENTATION
+
+groups showing areas that should be focused on the most.
+
+Data representation techniques that can be used for this process include but are not limited to:
+
+uu Flowcharts. Described in Section 8.1.2.5. Flowcharts show a series of steps that lead to a defect.
+
+uu Affinity diagrams. Described in Section 5.2.2.5. Afﬁnity diagrams can organize potential causes of defects into 
+
+uu Histograms. Histograms show a graphical representation of numerical data. Histograms can show the number 
+of defects per deliverable, a ranking of the cause of defects, the number of times each process is noncompliant, 
+or other representations of project or product defects.
+
+A decision-making technique that can be used for this process includes but is not limited to multicriteria decision 
+analysis. Described in Section 8.1.2.4. Multicriteria decision making is used to evaluate several criteria when discussing 
+alternatives that impact project or product quality. Project decisions can include choosing among different implementation 
+scenarios or suppliers. Product decisions can include evaluating the life cycle cost, schedule, stakeholder satisfaction, 
+and risks associated with resolving product defects.
+
+uu Cause-and-effect  diagrams.  Cause-and-effect  diagrams  are  also  known  as  ﬁshbone  diagrams,  why-why 
+diagrams, or Ishikawa diagrams. This type of diagram breaks down the causes of the problem statement identiﬁed 
+into discrete branches, helping to identify the main or root cause of the problem. Figure 8-9 is an example of a 
+cause-and-effect diagram.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Scatter  diagrams.  A  scatter  diagram  is  a  graph  that  shows  the  relationship  between  two  variables.  Scatter 
+diagrams can demonstrate a relationship between any element of a process, environment, or activity on one axis 
+and a quality defect on the other axis.
+
+uu Matrix diagrams. Described in Section 8.1.2.5. The matrix diagram seeks to show the strength of relationships 
+
+among factors, causes, and objectives that exist between the rows and columns that form the matrix.
+
+293
+
+People
+
+Process
+
+Equipment
+
+Material
+
+Environment
+
+Delay in arrival
+
+Old technology
+
+Management
+
+Lack of training
+
+Worker’s fatigue
+
+Not enough R&D
+
+Low maintenance
+
+Improper handling
+
+Bad working
+conditions
+
+Low quality of
+raw material
+
+Low commitment
+to quality
+
+Nonoptional
+manufacturing methods
+
+Figure 8-9. Cause-and-Effect Diagram
+
+Product quality
+not matching
+the requirements
+
+N ot F or Distribution, S ale or R eproduction.
+
+An audit is a structured, independent process used to determine if project activities comply with organizational and 
+project  policies,  processes,  and  procedures. A  quality  audit  is  usually  conducted  by  a  team  external  to  the  project, 
+such as the organization’s internal audit department, PMO, or by an auditor external to the organization. Quality audit 
+objectives may include but are not limited to:
+
+uu Proactively offering assistance in a positive manner to improve the implementation of processes to help raise 
+
+uu Sharing good practices introduced or implemented in similar projects in the organization and/or industry;
+
+uu Highlighting contributions of each audit in the lessons learned repository of the organization.
+
+uu Identifying all good and best practices being implemented;
+
+uu Identifying all nonconformity, gaps, and shortcomings;
+
+team productivity; and
+
+8.2.2.5 AUDITS
+
+294 
+
+Part 1 - Guide
+
+The subsequent effort to correct any deﬁciencies should result in a reduced cost of quality and an increase in sponsor 
+or customer acceptance of the project’s product. Quality audits may be scheduled or random, and may be conducted by 
+internal or external auditors.
+
+8.2.2.6 DESIGN FOR X
+
+8.2.2.7 PROBLEM SOLVING
+
+defect repairs, and preventive actions.
+
+Quality audits can conﬁrm the implementation of approved change requests including updates, corrective actions, 
+
+Design for X (DfX) is a set of technical guidelines that may be applied during the design of a product for the optimization 
+of a speciﬁc aspect of the design. DfX can control or even improve the product’s ﬁnal characteristics. The X in DfX can 
+be different aspects of product development, such as reliability, deployment, assembly, manufacturing, cost, service, 
+usability, safety, and quality. Using the DfX may result in cost reduction, quality improvement, better performance, and 
+customer satisfaction.
+
+Problem solving entails ﬁnding solutions for issues or challenges. It can include gathering additional information, 
+critical  thinking,  creative,  quantitative  and/or  logical  approaches.  Effective  and  systematic  problem  solving  is  a 
+fundamental element in quality assurance and quality improvement. Problems can arise as a result of the Control Quality 
+process or from quality audits and can be associated with a process or deliverable. Using a structured problem-solving 
+method will help eliminate the problem and develop a long-lasting solution. Problem-solving methods generally include 
+the following elements:
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Verifying solution effectiveness.
+
+uu Implementing the solution, and
+
+uu Generating possible solutions,
+
+uu Choosing the best solution,
+
+uu Identifying the root-cause,
+
+uu Deﬁning the problem,
+
+295
+
+8.2.2.8 QUALITY IMPROVEMENT METHODS
+
+8.2.3.1 QUALITY REPORTS
+
+8.2.3 MANAGE QUALITY: OUTPUTS
+
+8.2.3.2 TEST AND EVALUATION DOCUMENTS
+
+Quality improvements can occur based on ﬁndings and recommendations from quality control processes, the ﬁndings 
+of the quality audits, or problem solving in the Manage Quality process. Plan-do-check-act and Six Sigma are two of the 
+most common quality improvement tools used to analyze and evaluate opportunities for improvement.
+
+Test and evaluation documents can be created based on industry needs and the organization’s templates. They are 
+inputs to the Control Quality process and are used to evaluate the achievement of quality objectives. These documents 
+may include dedicated checklists and detailed requirements traceability matrices as part of the document.
+
+The  quality  reports  can  be  graphical,  numerical,  or  qualitative.  The  information  provided  can  be  used  by  other 
+processes and departments to take corrective actions in order to achieve the project quality expectations. The information 
+presented in the quality reports may include all quality management issues escalated by the team; recommendations for 
+process, project, and product improvements; corrective actions recommendations (including rework, defect/bugs repair, 
+100% inspection, and more); and the summary of ﬁndings from the Control Quality process.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Described in Section 4.3.3.4. If changes occur during the Manage Quality process that impact any of the components 
+of the project management plan, project documents, or project or product management processes, the project manager 
+should submit a change request and follow the Perform Integrated Change Control process as deﬁned in Section 4.6.
+
+8.2.3.3 CHANGE REQUESTS
+
+296 
+
+Part 1 - Guide
+
+8.2.3.4 PROJECT MANAGEMENT PLAN UPDATES
+
+issue log.
+
+Any change to the project management plan goes through the organization’s change control process via a change 
+request. Components that may require a change request for the project management plan include but are not limited to:
+
+management activities.
+
+management activities.
+
+quality management activities.
+
+8.2.3.5 PROJECT DOCUMENTS UPDATES
+
+need to be modiﬁed due to the actual results.
+
+Project documents that may be updated as a result of carrying out this process include but are not limited to:
+
+uu Issue log. Described in Section 4.3.3.3. New issues raised as a result of this process are recorded in the 
+
+uu Cost  baseline.  Described  in  Section  7.3.3.1.  The  cost  baseline  may  change  as  a  result  of  speciﬁc  quality 
+
+uu Schedule  baseline.  Described  in  Section  6.5.3.1. The  schedule  baseline  may  change  as  a  result  of  speciﬁc 
+
+uu Quality management plan. Described in Section 8.1.3.1. The agreed-upon approach to managing quality may 
+
+uu Scope baseline. Described in Section 5.4.3.1. The scope baseline may change as a result of speciﬁc quality 
+
+uu Lessons learned register. Described in Section 4.4.3.1. The lessons learned register is updated with information 
+on challenges encountered and how they could have been avoided as well as approaches that worked well for 
+the managing quality.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Risk register. Described in Section 11.2.3.1. New risks identiﬁed during this process are recorded in the risk 
+
+register and managed using the risk management processes.
+
+297
+
+8.3 CONTROL QUALI TY
+
+Inputs
+
+documents
+
+information
+
+Outputs
+
+.2  Data analysis
+
+.2  Project documents
+
+•  Quality management plan
+
+.1  Project management plan
+
+Tools & Techniques
+
+Control Quality
+
+data ﬂow diagram of the process.
+
+•  Lessons learned register
+•  Quality metrics
+•  Test and evaluation
+
+.1  Quality control measurements
+.2  Verified deliverables
+.3  Work performance  
+
+.3  Approved change requests
+.4  Deliverables
+.5  Work performance data
+.6  Enterprise environmental    
+
+.1  Data gathering
+•  Checklists
+•  Check sheets
+•  Statistical sampling
+•  Questionnaires and surveys
+
+The inputs, tools and techniques, and outputs of this process are depicted in Figure 8-10. Figure 8-11 depicts the 
+
+Control Quality is the process of monitoring and recording results of executing the quality management activities in 
+order to assess performance and ensure the project outputs are complete, correct, and meet customer expectations. 
+The key beneﬁt of this process is verifying that project deliverables and work meet the requirements speciﬁed by key 
+stakeholders for  ﬁnal  acceptance. The Control Quality process determines if the project outputs  do what they were 
+intended to do. Those outputs need to comply with all applicable standards, requirements, regulations, and speciﬁcations. 
+This process is performed throughout the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+•  Cause-and-effect diagrams
+•  Control charts
+•  Histogram
+•  Scatter diagrams
+
+•  Issue log
+•  Lessons learned register
+•  Risk register
+•  Test and evaluation
+
+.3  Inspection
+.4  Testing/product evaluations
+.5  Data representation
+
+.4  Change requests
+.5  Project management plan  
+  updates
+
+Figure 8-10. Control Quality: Inputs, Tools & Techniques, and Outputs
+
+•  Quality management plan
+.6  Project documents updates
+
+•  Performance reviews
+•  Root cause analysis
+
+.7  Organizational process assets
+
+.6  Meetings
+
+documents
+
+factors
+
+298 
+
+Part 1 - Guide
+
+ 
+ 
+4.5
+Monitor and
+Control
+Project Work
+
+Project
+Management
+Plan
+
+• Change requests
+
+• Project
+   charter
+
+• Verified deliverables
+
+•  Approved change requests
+
+• Quality control measurements
+
+• Work performance information
+
+8.3
+Control
+Quality
+
+Project
+Documents
+
+5.5
+Validate
+Scope
+
+•  Deliverables
+•  Work performance data
+
+Project management plan
+•  Quality management plan
+
+Project
+Management
+Plan
+
+Project management plan updates
+• Quality management plan
+
+4.3
+Direct and
+Manage
+Project Work
+
+4.6
+Perform
+Integrated
+Change Control
+
+4.6
+Perform
+Integrated
+Change Control
+
+Project documents
+•  Lessons learned register
+•  Quality metrics
+•  Test and evaluation documents
+
+N ot F or Distribution, S ale or R eproduction.
+
+The Control Quality process is performed to measure the completeness, compliance, and ﬁtness for use of a product 
+or service prior to user acceptance and ﬁnal delivery. This is done by measuring all steps, attributes, and variables used 
+to verify conformance or compliance to the speciﬁcations stated during the planning stage.
+
+Quality  control  should  be  performed  throughout  the  project  to  formally  demonstrate,  with  reliable  data,  that  the 
+
+sponsor’s and/or customer’s acceptance criteria have been met.
+
+Project documents updates
+• Issue log
+• Lessons learned register
+• Risk register
+• Test and evaluation documents
+
+Figure 8-11. Control Quality: Data Flow Diagram
+
+•  Enterprise environmental factors
+•  Organizational process assets
+
+Enterprise/
+Organization
+
+Project
+Documents
+
+299
+
+8.3.1.2 PROJECT DOCUMENTS
+
+8.3.1.1 PROJECT MANAGEMENT PLAN
+
+8.3.1 CONTROL QUALITY: INPUTS
+
+Project documents that can be considered as inputs for this process include but are not limited to:
+
+uu Lessons learned register. Described in Section 4.4.3.1. Lessons learned earlier in the project can be applied to 
+
+The level of effort to control quality and the degree of implementation may differ between industries and project 
+management styles; in pharmaceutical, health, transportation, and nuclear industries, for example, there may be stricter 
+quality control procedures compared to other industries, and the effort needed to meet the standards may be extensive. 
+For example, in agile projects, the Control Quality activities may be performed by all team members throughout the 
+project life cycle. In waterfall model-based projects, the quality control activities are performed at speciﬁc times, toward 
+the end of the project or phase, by speciﬁed team members.
+
+Described  in  Section  4.2.3.1.  Project  management  plan  components  include  but  are  not  limited  to  the  quality 
+management  plan.  Described  in  Section  8.1.3.1,  the  quality  management  plan  deﬁnes  how  quality  control  will  be 
+performed within the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Quality metrics. Described in Section 8.1.3.2. A quality metric speciﬁcally describes a project or product attribute 
+
+uu Test  and  evaluation  documents.  Described  in  Section  8.2.3.2. Test  and  evaluation  documents  are  used  to 
+
+and how the Control Quality process will verify compliance to it. 
+
+later phases in the project to improve quality control.
+
+evaluate achievement of the quality objectives.
+
+300 
+
+Part 1 - Guide
+
+8.3.1.3 APPROVED CHANGE REQUESTS
+
+8.3.1.4 DELIVERABLES
+
+8.3.1.5 WORK PERFORMANCE DATA
+
+8.3.1.6 ENTERPRISE ENVIRONMENTAL FACTORS
+
+Described in Section 4.3.3.2. Work performance data contains data on product status such as observations, quality 
+metrics, and measurements for technical performance, as well as project quality information on schedule performance 
+and cost performance.
+
+A deliverable is any unique and veriﬁable product, result, or capability to perform a service that is required to be 
+produced to complete a process, phase, or project. Deliverables that are outputs from the Direct and Manage Project 
+Work process are inspected and compared to the acceptance criteria deﬁned in the project scope statement.
+
+Described in Section 4.6.3.1. As part of the Perform Integrated Change Control process, a change log update indicates 
+that  some  changes  are  approved  and  some  are  not. Approved  change  requests  may  include  modiﬁcations  such  as 
+defect repairs, revised work methods, and revised schedules. Partial change completion may result in inconsistencies 
+and later delays due to incomplete steps or corrections. The implementation of approved changes should be veriﬁed, 
+conﬁrmed for completeness, retested, and certiﬁed as correct.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Project management information system; quality management software can be used to track errors and variations 
+
+The enterprise environmental factors that can inﬂuence the Control Quality process include but are not limited to:
+
+uu Rules, standards, and guidelines speciﬁc to the application area.
+
+uu Governmental agency regulations; and
+
+in processes or deliverables;
+
+301
+
+8.3.1.7 ORGANIZATIONAL PROCESS ASSETS
+
+The organizational process assets that can inﬂuence the Control Quality process include but are not limited to:
+
+structured manner.
+
+8.3.2.1 DATA GATHERING
+
+uu Quality standards and policies;
+
+8.3.2 CONTROL QUALITY: TOOLS AND TECHNIQUES
+
+uu Quality templates, for example, check sheets, checklists, etc. and;
+
+uu Issue and defect reporting procedures and communication policies.
+
+Data-gathering techniques that can be used for this process include but are not limited to:
+
+uu Checklists.  Described  in  Section  11.2.2.2.  Checklists  help  in  managing  the  control  quality  activities  in  a 
+
+uu Check sheets. Check sheets are also known as tally sheets and are used to organize facts in a manner that will 
+facilitate the effective collection of useful data about a potential quality problem. They are especially useful for 
+gathering attributes data while performing inspections to identify defects; for example, data about the frequencies 
+or consequences of defects collected. See Figure 8-12.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Figure 8-12. Check Sheets
+
+Missing component
+
+Defects/Date
+
+Labeling error
+
+Small scratch
+
+Large scratch
+
+Wrong color
+
+ Date 1
+
+ Date 3
+
+ Date 4
+
+ Date 2
+
+Bent
+
+tal
+
+To
+
+0
+
+3
+
+1
+
+2
+
+2
+
+2
+
+0
+
+1
+
+1
+
+1
+
+0
+
+2
+
+2
+
+2
+
+2
+
+9
+
+0
+
+7
+
+6
+
+3
+
+1
+
+5
+
+1
+
+6
+
+1
+
+8
+
+1
+
+3
+
+0
+
+2
+
+302 
+
+Part 1 - Guide
+
+ 
+uu Statistical sampling. Statistical sampling involves choosing part of a population of interest for inspection (for 
+example, selecting 10 engineering drawings at random from a list of 75). The sample is taken to measure controls 
+and verify quality. Sample frequency and sizes should be determined during the Plan Quality Management process.
+
+of defects.
+
+8.3.2.3 INSPECTION
+
+8.3.2.2 DATA ANALYSIS
+
+Plan Quality Management process against the actual results.
+
+Data analysis techniques that can be used for this process include but are not limited to:
+
+uu Root cause analysis (RCA). Described in Section 8.2.2.2. Root cause analysis is used to identify the source 
+
+uu Performance reviews. Performance reviews measure, compare, and analyze the quality metrics deﬁned by the 
+
+uu Questionnaires  and  Surveys.  Surveys  may  be  used  to  gather  data  about  customer  satisfaction  after  the 
+deployment of the product or service. The cost regarding defects identiﬁed in the surveys may be considered 
+external failure costs in the COQ model and can have extensive cost implications for the organization.
+
+An inspection is the examination of a work product to determine if it conforms to documented standards. The results 
+of inspections generally include measurements and may be conducted at any level. The results of a single activity can be 
+inspected, or the ﬁnal product of the project can be inspected. Inspections may be called reviews, peer reviews, audits, 
+or walkthroughs. In some application areas, these terms have narrow and speciﬁc meanings. Inspections also are used 
+to verify defect repairs.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Testing is an organized and constructed investigation conducted to provide objective information about the quality 
+of the product or service under test in accordance with the project requirements. The intent of testing is to ﬁnd errors, 
+defects,  bugs,  or  other  nonconformance  problems  in  the  product  or  service. The  type,  amount,  and  extent  of  tests 
+needed to evaluate each requirement are part of the project quality plan and depend on the nature of the project, time, 
+budget, and other constraints. Tests can be performed throughout the project, as different components of the project 
+become available, and at the end of the project on the ﬁnal deliverables. Early testing helps identify nonconformance 
+problems and helps reduce the cost of ﬁxing the nonconforming components.
+
+8.3.2.4 TESTING/PRODUCT EVALUATIONS
+
+303
+
+8.3.2.5 DATA REPRESENTATION
+
+possible effects of quality defects and errors.
+
+Data representation techniques that can be used for this process include but are not limited to:
+
+uu Cause-and-effect diagrams. Described in Section 8.2.2.4. Cause-and-effect diagrams are used to identify the 
+
+Different application areas require different tests. For example, software testing may include unit testing, integration 
+testing, black-box, white-box, interface testing, regression testing, Alpha testing, etc. In construction projects, testing 
+may include cement strength, concrete workability test, nondestructive tests at construction sites for testing the quality 
+of hardened concrete structures, and soil tests. In hardware development, testing may include environmental stress 
+screening, burn-in tests, system testing, and more.
+
+uu Control  charts.  Control  charts  are  used  to  determine  whether  or  not  a  process  is  stable  or  has  predictable 
+performance. Upper and lower speciﬁcation limits are based on the requirements and reﬂect the maximum and 
+minimum values allowed. Upper and lower control limits are different from speciﬁcation limits. The control limits 
+are determined using standard statistical calculations and principles to ultimately establish the natural capability 
+for  a  stable  process. The  project  manager  and  appropriate  stakeholders  may  use  the  statistically  calculated 
+control limits to identify the points at which corrective action will be taken to prevent performance that remains 
+outside the control limits. Control charts can be used to monitor various types of output variables. Although used 
+most frequently to track repetitive activities required for producing manufactured lots, control charts may also be 
+used to monitor cost and schedule variances, volume, frequency of scope changes, or other management results 
+to help determine if the project management processes are in control.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Histograms. Described in Section 8.2.2.4. Histograms can demonstrate the number of defects by source 
+
+uu Scatter diagrams. Described in Section 8.2.2.4. Scatter diagrams can show the planned performance on one 
+
+axis and the actual performance on the second axis.
+
+or by component.
+
+304 
+
+Part 1 - Guide
+
+8.3.2.6 MEETINGS
+
+The following meetings may be used as part of the Control Quality process:
+
+un What could be improved,
+
+8.3.3.2 VERIFIED DELIVERABLES
+
+8.3.3 CONTROL QUALITY: OUTPUTS
+
+un Successful elements in the project/phase,
+
+8.3.3.1 QUALITY CONTROL MEASUREMENTS
+
+un What to add to the organization process assets.
+
+format that was speciﬁed in the quality management plan.
+
+un What to incorporate in the ongoing project and what in future projects, and
+
+uu Retrospectives/lesson learned. A meeting held by a project team to discuss:
+
+Quality control measurements are the documented results of Control Quality activities. They should be captured in the 
+
+uu Approved change requests review. All approved change requests should be reviewed to verify that they were 
+implemented as approved. This review should also check that partial changes are completed and all parts have 
+been properly implemented, tested, completed, and certiﬁed.
+
+N ot F or Distribution, S ale or R eproduction.
+
+A goal of the Control Quality process is to determine the correctness of deliverables. The results of performing the 
+Control Quality process are veriﬁed deliverables that become an input to the Validate Scope process (Section 5.5) for 
+formalized acceptance. If there were any change requests or improvements related to the deliverables, they may be 
+changed, inspected, and reveriﬁed.
+
+Described in Section 4.5.1.3. Work performance information includes information on project requirements fulﬁllment, 
+causes for rejections, rework required, recommendations for corrective actions, lists of veriﬁed deliverables, status of 
+the quality metrics, and the need for process adjustments.
+
+8.3.3.3 WORK PERFORMANCE INFORMATION
+
+305
+
+8.3.3.4 CHANGE REQUESTS
+
+is documented as an issue.
+
+8.3.3.6 PROJECT DOCUMENTS UPDATES
+
+8.3.3.5 PROJECT MANAGEMENT PLAN UPDATES
+
+Project documents that may be updated as a result of carrying out this process include but are not limited to:
+
+uu Risk register. Described in Section 11.2.3.1. New risks identiﬁed during this process are recorded in the risk 
+
+uu Issue log. Described in Section 4.3.3.3. Many times a deliverable that does not meet the quality requirements 
+
+uu Lessons learned register. Described in Section 4.4.3.1. The lessons learned register is updated with information 
+on the source of quality defects and how they could have been avoided as well as approaches that worked well.
+
+Described  in  Section  4.3.3.4.  If  changes  occur  during  the  Control  Quality  process  that  may  impact  any  of  the 
+components  of  the  project  management  plan  or  project  documents,  the  project  manager  should  submit  a  change 
+request.  Change  requests  are  processed  for  review  and  disposition  through  the  Perform  Integrated  Change  Control 
+process (Section 4.6).
+
+Any change to the project management plan goes through the organization’s change control process via a change 
+request. Components that may require a change request for the project management plan include but are not limited to 
+the quality management plan, as described in Section 8.1.3.1.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Test and evaluation documents. Described in Section 8.2.3.2. Test and evaluation documents may be modiﬁed 
+
+as a result of this process in order to make future tests more effective.
+
+register and managed using the risk management processes.
+
+306 
+
+Part 1 - Guide
+
+9
+
+and team resources.
+
+The Project Resource Management processes are:
+
+other resources necessary to complete project work.
+
+material, equipment, and supplies necessary to perform project work.
+
+PR OJE CT R ESOU RCE  MA NAGEMENT
+
+9.3 Acquire Resources—The process of obtaining team members, facilities, equipment, materials, supplies, and 
+
+9.1 Plan Resource Management—The process of deﬁning how to estimate, acquire, manage, and utilize physical 
+
+9.4  Develop  Team—The  process  of  improving  competencies,  team  member  interaction,  and  the  overall  team 
+
+9.2  Estimate  Activity  Resources—The  process  of  estimating  team  resources  and  the  type  and  quantities  of 
+
+Project Resource Management includes the processes to identify, acquire, and manage the resources needed for 
+the successful completion of the project. These processes help ensure that the right resources will be available to the 
+project manager and project team at the right time and place.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Figure  9-1  provides  an  overview  of  the  Project  Resource  Management  processes.  The  Project  Resource 
+Management processes are presented as discrete processes with deﬁned interfaces while, in practice, they overlap 
+and interact in ways that cannot be completely detailed in the PMBOK® Guide.
+
+9.6  Control  Resources—The  process  of  ensuring  that  the  physical  resources  assigned  and  allocated  to  the 
+project are available as planned, as well as monitoring the planned versus actual use of resources, and performing 
+corrective action as necessary.
+
+9.5 Manage Team—The process of tracking team member performance, providing feedback, resolving issues, 
+
+and managing team changes to optimize project performance.
+
+environment to enhance project performance.
+
+307
+
+Project Resource
+Management Overview
+
+1 
+
+factors
+
+factors
+
+factors 
+
+.1  Inputs
+
+.1  Inputs
+
+.1  Inputs
+
+.3  Outputs
+
+.3  Outputs
+
+.3  Outputs
+
+.7  Meetings
+
+9.4 Develop Team 
+
+.4  Organizational process assets
+
+9.3 Acquire Resources
+
+.5  Organizational process   
+  assets
+
+.4  Organizational process   
+  assets
+
+9.1 Plan Resource
+Management
+
+9.2 Estimate
+Activity Resources
+
+.1  Project management plan
+.2  Project documents
+.3  Enterprise environmental  
+
+.1  Project management plan  
+.2  Project documents  
+.3  Enterprise environmental  
+
+.1  Resource management plan
+.2  Team charter
+.3  Project documents updates
+
+Inputs
+.1  Project management plan
+.2  Project documents
+.3  Enterprise environmental  
+
+.1  Project charter
+.2  Project management plan
+.3  Project documents
+.4  Enterprise environmental  
+
+.2  Tools & Techniques
+.1  Expert judgment
+.2  Data representation
+.3  Organizational theory
+.4  Meetings
+
+.1  Resource requirements
+.2  Basis of estimates
+.3  Resource breakdown
+  structure
+.4  Project documents updates
+
+.2  Tools & Techniques
+.1  Decision making 
+.2  Interpersonal and team skills
+.3  Pre-assignment
+.4  Virtual teams
+
+.2  Tools & Techniques
+.1  Expert judgment
+.2  Bottom-up estimating
+.3  Analogous estimating
+.4  Parametric estimating
+.5  Data analysis
+.6  Project management  
+information system
+
+.1  Physical resource  
+  assignments
+.2  Project team assignments 
+.3  Resource calendars
+.4  Change requests 
+.5  Project management plan  
+  updates 
+.6  Project documents updates
+.7  Enterprise environmental  
+
+N ot F or Distribution, S ale or R eproduction.
+
+.1  Colocation
+.2  Virtual teams
+.3  Communication technology
+.4  Interpersonal and team skills 
+.5  Recognition and rewards
+.6  Training
+.7  Individual and team  
+  assessments
+.8  Meetings
+
+.1  Team performance  
+  assessments
+.2  Change requests
+.3  Project management plan  
+  updates 
+.4  Project documents updates 
+.5  Enterprise environmental  
+
+.2  Tools & Techniques
+.1  Data analysis
+.2  Problem solving
+.3  Interpersonal and team skills
+.4  Project management
+information system
+
+Inputs
+.1  Project management plan  
+.2  Project documents 
+.3  Work performance reports
+.4  Team performance  
+  assessments
+.5  Enterprise environmental  
+
+.1  Work performance information 
+.2  Change requests
+.3  Project management plan  
+  updates 
+.4  Project documents updates 
+
+.1  Project management plan
+.2  Project documents
+.3  Work performance data
+.4  Agreements
+.5  Organizational process assets
+
+.1  Change requests
+.2  Project management plan  
+  updates 
+.3  Project documents updates 
+.4  Enterprise environmental  
+
+.1  Interpersonal and team skills
+.2  Project management  
+information system
+
+Figure 9-1. Project Resource Management Overview
+
+.6  Organizational process assets  
+  updates
+
+.4  Organizational process   
+  assets
+
+.8  Organizational process 
+  assets updates  
+
+9.6 Control Resources 
+
+.6  Organizational process assets
+
+9.5 Manage Team
+
+.2  Tools & Techniques
+
+.2  Tools & Techniques
+
+factors updates
+
+factors updates
+
+factors updates
+
+.3  Outputs
+
+.3  Outputs
+
+.3  Outputs
+
+.1  Inputs
+
+factors
+
+factors
+
+1 
+
+308 
+
+Part 1 - Guide
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+uu Team environment,
+
+KEY CONCEPTS FOR PROJECT RESOURCE MANAGEMENT
+
+There  is  a  distinction  between  the  skills  and  competencies  needed  for  the  project  manager  to  manage  team 
+resources  versus  physical  resources.  Physical  resources  include  equipment,  materials,  facilities,  and  infrastructure. 
+Team resources or personnel refer to the human resources. Personnel may have varied skill sets, may be assigned 
+full- or part-time, and may be added or removed from the project team as the project progresses. There is some overlap 
+between Project Resource Management and Project Stakeholder Management (Section 13). This section (Section 9) 
+focuses on the subset of stakeholders who make up the project team.
+
+The project manager should be both leader and manager of the project team. In addition to project management 
+activities such as initiating, planning, executing, monitoring and controlling, and closing the various project phases, the 
+project manager is responsible for the team formation as an effective group. The project manager should be aware of 
+different aspects that inﬂuence the team, such as:
+
+The project team consists of individuals with assigned roles and responsibilities who work collectively to achieve 
+a  shared  project  goal.  The  project  manager  should  invest  suitable  effort  in  acquiring,  managing,  motivating,  and 
+empowering the project team. Although speciﬁc roles and responsibilities for the project team members are assigned, 
+the  involvement  of  all  team  members  in  project  planning  and  decision  making  is  beneﬁcial.  Participation  of  team 
+members during planning adds their expertise to the process and strengthens their commitment to the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+As a leader, the project manager is also responsible for proactively developing team skills and competencies while 
+retaining and improving team satisfaction and motivation. The project manager should be aware of, and subscribe to, 
+professional and ethical behavior, and ensure that all team members adhere to these behaviors.
+
+uu Cultural issues and organizational uniqueness, and
+
+uu Other factors that may alter project performance.
+
+uu Geographical locations of team members,
+
+uu Communications among stakeholders,
+
+uu Organizational change management,
+
+uu Internal and external politics,
+
+309
+
+ﬁnal product,
+
+TRENDS AND EMERGING PRACTICES IN PROJECT RESOURCE MANAGEMENT
+
+uu Ordering low-quality material may damage the quality of the product causing a high rate of recalls or rework, and
+
+uu Failing to secure critical equipment or infrastructure on time may result in delays in the manufacturing of the 
+
+Physical resource management is concentrated in allocating and using the physical resources (material, equipment, 
+and supplies, for example) needed for successful completion of the project in an efﬁcient and effective way. In order to do 
+that, organizations should have data on resource demands (now and in the reasonable future), resource conﬁgurations 
+that will be required to meet those demands, and the supply of resources. Failing to manage and control resources 
+efﬁciently is a source of risk for successful project completion. For example:
+
+uu Keeping too much inventory may result in high operations costs and reduce the organization’s proﬁt. Unacceptably 
+low inventory level, on the other hand, may result in not satisfying customer demand and, again, reduce the 
+organization’s proﬁt.
+
+Project  management  styles  are  shifting  away  from  a  command  and  control  structure  for  managing  projects  and 
+toward  a  more  collaborative  and  supportive  management  approach  that  empowers  teams  by  delegating  decision 
+making to the team members. In addition, modern project resource management approaches seek to optimize resource 
+utilization. Trends and emerging practices for Project Resource Management include but are not limited to:
+
+uu Resource management methods. Due to the scarce nature of critical resources, in some industries, several 
+trends have become popular in the past several years. There is extensive literature about lean management, just-
+in-time (JIT) manufacturing, Kaizen, total productive maintenance (TPM), theory of constraints (TOC), and other 
+methods. A project manager should determine if the performing organization has adopted one or more resource 
+management tools and adapt the project accordingly.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Self-organizing teams. The increase in using agile approaches mainly for the execution of IT projects has given 
+rise to the self-organizing team, where the team functions with an absence of centralized control. In projects 
+that have self-organizing teams, the project manager (who may not be called a project manager) role provides 
+the team with the environment and support needed and trusts the team to get the job done. Successful self-
+organizing teams usually consist of generalized specialists, instead of subject matter experts, who continuously 
+adapt to the changing environment and embrace constructive feedback.
+
+uu Emotional  intelligence  (EI).  The  project  manager  should  invest  in  personal  EI  by  improving  inbound  (e.g., 
+self-management and self-awareness) and outbound (e.g., relationship management) competencies. Research 
+suggests that project teams that succeed in developing team EI or become an emotionally competent group are 
+more effective. Additionally, there is a reduction in staff turnover.
+
+310 
+
+Part 1 - Guide
+
+TAILORING CONSIDERATIONS
+
+full-time or part-time on the project?
+
+uu Diversity. What is the diversity background of the team?
+
+processes are applied. Considerations for tailoring include but are not limited to:
+
+uu Industry-specific resources. What special resources are needed in the industry?
+
+uu Physical location. What is the physical location of team members and physical resources?
+
+Because  each  project  is  unique,  the  project  manager  will  need  to  tailor  the  way  Project  Resource  Management 
+
+uu Acquisition of team members. How will team members be acquired for the project? Are team resources 
+
+uu Virtual teams/distributed teams. The globalization of projects has promoted the need for virtual teams that work 
+on the same project, but are not colocated at the same site. The availability of communication technology such as 
+email, audio conferencing, social media, web-based meetings, and video conferencing has made virtual teams 
+feasible. Managing virtual teams has unique advantages, such as being able to use special expertise on a project 
+team even when the expert is not in the same geographic area, incorporating employees who work from home 
+ofﬁces, and including people with mobility limitations or disabilities. The challenges of managing virtual teams 
+are mainly in the communication domain, including a possible feeling of isolation, gaps in sharing knowledge 
+and experience between team members, and difﬁculties in tracking progress and productivity, possible time zone 
+difference and cultural differences.
+
+N ot F or Distribution, S ale or R eproduction.
+
+Collaboration is intended to boost productivity and facilitate innovative problem solving. Collaborative teams may 
+facilitate accelerated integration of distinct work activities, improve communication, increase knowledge sharing, and 
+provide ﬂexibility of work assignments in addition to other advantages.
+
+uu Management of team. How is team development managed for the project? Are there organizational tools to 
+manage team development or will new ones need to be established? Are there team members who have special 
+needs? Will the team need special training to manage diversity?
+
+Projects  with  high  variability  beneﬁt  from  team  structures  that  maximize  focus  and  collaboration,  such  as  self-
+
+uu Life cycle approaches. What life cycle approach will be used on the project?
+
+CONSIDERATIONS FOR AGILE/ADAPTIVE ENVIRONMENTS
+
+organizing teams with generalizing specialists.
+
+311
+
+Although the beneﬁts of collaboration also apply to other project environments, collaborative teams are often critical 
+to the success of projects with a high degree of variability and rapid changes, because there is less time for centralized 
+tasking and decision making.
+
+Inputs
+
+Tools & Techniques
+
+.1  Expert judgment
+.2  Data representation
+
+Plan Resource Management
+
+.1  Project charter
+.2  Project management plan
+
+9.1 PLAN RESOURCE MANAGEMENT
+
+Planning  for  physical  and  human  resources  is  much  less  predictable  in  projects  with  high  variability.  In  these 
+environments, agreements for fast supply and lean methods are critical to controlling costs and achieving the schedule.
+
+Plan Resource Management is the process of deﬁning how to estimate, acquire, manage, and use team and physical 
+resources. The key beneﬁt of this process is that it establishes the approach and level of management effort needed 
+for managing project resources based on the type and complexity of the project. This process is performed once or at 
+predeﬁned points in the project. The inputs, tools and techniques, and outputs of the process are depicted in Figure 9-2. 
+Figure 9-3 depicts the data ﬂow diagram for the process.
+
+N ot F or Distribution, S ale or R eproduction.
+
+•  Quality management plan
+•  Scope baseline
+.3  Project documents
+•  Project schedule
+•  Requirements
+documentation
+
+.1  Resource management plan
+.2  Team charter
+.3  Project documents updates
+
+Figure 9-2. Plan Resource Management: Inputs, Tools & Techniques, and Outputs
+
+•  Risk register
+•  Stakeholder register
+.4  Enterprise environmental  
+
+•  Hierarchical charts
+•  Responsibility assignment
+
+.3  Organizational theory
+.4  Meetings
+
+•  Assumption log
+•  Risk register
+
+.5  Organizational process assets
+
+•  Text-oriented formats
+
+Outputs
+
+factors
+
+matrix
+
+312 
+
+Part 1 - Guide
+
+ 
+4.1
+Develop
+Project
+Charter
+
+• Team charter
+
+•  Project charter
+
+• Project
+   charter
+
+• Resource management plan
+
+Project
+Documents
+
+Project
+Documents
+
+Enterprise/
+Organization
+
+Project
+Management
+Plan
+
+Project
+Management
+Plan
+
+9.1
+Plan 
+Resource
+Management
+
+Project documents updates
+• Assumption log
+• Risk register
+
+Project management plan
+•  Quality management plan
+•  Scope baseline
+
+Project documents
+•  Project schedule
+•  Requirements documentation
+•  Risk register
+•  Stakeholder register
+
+N ot F or Distribution, S ale or R eproduction.
+
+Resource planning is used to determine and identify an approach to ensure that sufﬁcient resources are available for 
+the successful completion of the project. Project resources may include team members, supplies, materials, equipment, 
+services and facilities. Effective resource planning should consider and plan for the availability of, or competition for, 
+scarce resources.
+
+Those resources can be obtained from the organization’s internal assets or from outside the organization through a 
+procurement process. Other projects may be competing for the same resources required for the project at the same time 
+and location. This may signiﬁcantly impact project costs, schedules, risks, quality, and other project areas.
+
+Figure 9-3. Plan Resource Management: Data Flow Diagram
+
+•  Enterprise environmental factors
+•  Organizational process assets
+
+313
+
+9.1.1 PLAN RESOURCE MANAGEMENT: INPUTS
+
+9.1.1.1 PROJECT CHARTER
+
+9.1.1.3 PROJECT DOCUMENTS
+
+9.1.1.2 PROJECT MANAGEMENT PLAN
+
+and quantities of resources that will need to be managed.
+
+Project documents that can be considered as inputs for this process include but are not limited to:
+
+Described in Section 4.2.3.1. Project management plan components include but are not limited to:
+
+uu Project schedule. Described in Section 6.5.3.2. The project schedule shows the timeline for needed resources.
+
+uu Scope baseline. Described in Section 5.4.3.1. The scope baseline identiﬁes the deliverables that drive the types 
+
+uu Quality management plan. Described in Section 8.1.3.1. The quality management plan helps deﬁne the level of 
+resources that will be required to achieve and maintain the deﬁned level of quality and achieve the metrics for 
+the project.
+
+Described in Section 4.1.3.1. The project charter provides the high-level project description and requirements. It also 
+has the key stakeholder list, summary milestones, and preapproved ﬁnancial resources that may inﬂuence the resource 
+management of the project.
+
+N ot F or Distribution, S ale or R eproduction.
+
+uu Stakeholder  register.  Described  in  Section  13.1.3.1.  The  stakeholder  register  aids  in  identifying  those 
+stakeholders who have a particular interest in or an impact on resources needed for the project. It also helps to 
+identify stakeholders who can inﬂuence the use of one kind of resource over another.
+
+uu Risk register. Described in Section 11.2.3.1. The risk register contains information on threats and opportunities 
+
+uu Requirements documentation. Described in Section 5.2.3.1. Requirements will dictate the type and amount of 
+
+resources needed for the project and may inﬂuence how they are managed.
+
+that may impact resource planning.
+
+314 
+
+Part 1 - Guide
+
+9.1.1.4 ENTERPRISE ENVIRONMENTAL FACTORS
+
+The enterprise environmental factors that can inﬂuence the Plan Resource Management include but are not limited to:
+
+uu Safety policies,
+
+uu Security policies,
+
+uu Marketplace conditions.
+
+uu Organizational culture and structure,
+
+uu Historical information for similar projects.
+
+uu Human resource policies and procedures,
+
+9.1.1.5 ORGANIZATIONAL PROCESS ASSETS
+
+uu Geographic distribution of facilities and resources,
+
+uu Templates for the resource management plan, and
+
+uu Existing resources competencies and availability, and
+
+uu Physical resource management policies and procedures,
+
+The organizational process assets that can inﬂuence the Plan Resource Management include but are not limited to:
+
+N ot F or Distribution, S ale or R eproduction.
+
+Described in Section 4.1.2.1. Expertise should be considered from individuals or groups with specialized knowledge 
+
+uu Managing sellers and the logistics effort to ensure materials and supplies are available when needed.
+
+uu Estimating lead times required for acquisition, based on lessons learned and market conditions;
+
+uu Identifying risks associated with resource acquisition, retention, and release plans;
+
+9.1.2 PLAN RESOURCE MANAGEMENT: TOOLS AND TECHNIQUES
+
+uu Determining the preliminary effort level needed to meet project objectives;
+
+uu Determining reporting requirements based on the organizational culture;
+
+uu Complying with applicable government and union regulations; and
+
+uu Negotiating for the best resources within the organization;
+
+uu Talent management and personnel development;
+
+or training in the following topics:
+
+9.1.2.1 EXPERT JUDGMENT
+
+315
+
+9.1.2.2 DATA REPRESENTATION
+
+in a graphical, top-down format.
+
+into work packages and provide a way of showing high-level areas of responsibility.
+
+un Work breakdown structures (WBS). The WBS is designed to show how project deliverables are broken down 
+
+uu Hierarchical charts. The traditional organizational chart structure can be used to show positions and relationships 
+
+un Organizational breakdown structure (OBS). While the WBS shows a breakdown of project deliverables, an OBS 
+is arranged according to an organization’s existing departments, units, or teams, with the project activities or 
+work packages listed under each department. An operational department, such as information technology or 
+purchasing, can see all of its project responsibilities by looking at its portion of the OBS.
+
+un Resource breakdown structure. The resource breakdown structure is a hierarchical list of team and physical 
+resources related by category and resource type that is used for planning, managing and controlling project 
+work. Each descending (lower) level represents an increasingly detailed description of the resource until the 
+information is small enough to be used in conjunction with the work breakdown structure (WBS) to allow the 
+work to be planned, monitored, and controlled.
+
+Data representation techniques that can be used for this process include but are not limited to charts. Various formats 
+exist to document and communicate team member roles and responsibilities. Most fall into hierarchical, matrix, or text-
+oriented formats. Some project assignments are listed in subsidiary plans, such as the risk, quality, or communications 
+management plans. Regardless of the method used to document team member roles, the objective is to ensure that 
+each work package has an unambiguous owner and that all team members have a clear understanding of their roles 
+and responsibilities. A hierarchical format may be used to represent high-level roles, while a text-based format may be 
+better suited to document the detailed responsibilities.
+
+N ot F or Distribution, S ale or R eproduction.
+
+316 
+
+Part 1 - Guide
+
+RACI Chart
+
+uu Text-oriented formats. Team member responsibilities that require detailed descriptions can be speciﬁed in text-
+oriented formats. Usually in outline form, these documents provide information such as responsibilities, authority, 
+competencies, and qualiﬁcations. The documents are known by various names including position descriptions 
+and role-responsibility-authority forms. These documents can be used as templates for future projects, especially 
+when the information is updated throughout the current project by applying lessons learned.
+
+uu Assignment Matrix. A RAM shows the project resources assigned to each work package. It is used to illustrate 
+the connections between work packages, or activities, and project team members. On larger projects, RAMs can 
+be developed at various levels. For example, a high-level RAM can deﬁne the responsibilities of a project team, 
+group, or unit within each component of the WBS. Lower-level RAMs are used within the group to designate roles, 
+responsibilities, and levels of authority for speciﬁc activities. The matrix format shows all activities associated 
+with  one  person  and  all  people  associated  with  one  activity. This  also  ensures  that  there  is  only  one  person 
+accountable for any one task to avoid confusion about who is ultimately in charge or has authority for the work. 
+One example of a RAM is a RACI (responsible, accountable, consult, and inform) chart, shown in Figure 9-4. 
+The sample chart shows the work to be done in the left column as activities. The assigned resources can be 
+shown as individuals or groups. The project manager can select other options, such as “lead” and “resource” 
+designations, as appropriate for the project. A RACI chart is a useful tool to use to ensure clear assignment of 
+roles and responsibilities when the team consists of internal and external resources.
+
+N ot F or Distribution, S ale or R eproduction.
+
+R = Responsible   A = Accountable   C = Consult   I = Inform
+
+Submit change
+request
+
+Collect
+requirements
+
+Figure 9-4. Sample RACI Chart
+
+Develop test plan
+
+Create charter
+
+Activity
+
+Person
+
+Carlos
+
+Dina
+
+Ben
+
+Ann
+
+Ed
+
+R
+
+R
+
+R
+
+R
+
+R
+
+C
+
+C
+
+C
+
+C
+
+A
+
+A
+
+A
+
+A
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+I
+
+317
+
+9.1.2.3 ORGANIZATIONAL THEORY
+
+9.1.2.4 MEETINGS
+
+9.1.3.1 RESOURCE MANAGEMENT PLAN
+
+9.1.3 PLAN RESOURCE MANAGEMENT: OUTPUTS
+
+The project team may hold meetings to plan resource management for the project.
+
+The resource management plan is the component of the project management plan that provides guidance on how 
+project  resources  should  be  categorized,  allocated,  managed,  and  released.  It  may  be  divided  between  the  team 
+management  plan  and  physical  resource  management  plan  according  to  the  speciﬁcs  of  the  project. The  resource 
+management plan may include but is not limited to:
+
+Organizational  theory  provides  information  regarding  the  way  in  which  people,  teams,  and  organizational  units 
+behave. Effective use of common techniques identiﬁed in organizational theory can shorten the amount of time, cost, 
+and effort needed to create the Plan Resource Management process outputs and improve planning efﬁciency. Applicable 
+organizational theories may recommend exercising a ﬂexible leadership style that adapts to the changes in a team’s 
+maturity level throughout the project life cycle. It is important to recognize that the organization’s structure and culture 
+impacts the project organizational structure.
+
+N ot F or Distribution, S ale or R eproduction.
+
+un Authority. The rights to apply project resources, make decisions, sign approvals, accept deliverables, and 
+inﬂuence  others  to  carry  out  the  work  of  the  project.  Examples  of  decisions  that  need  clear  authority 
+include  the  selection  of  a  method  for  completing  an  activity,  quality  acceptance  criteria,  and  how  to 
+respond to project variances. Team members operate best when their individual levels of authority match 
+their individual responsibilities.
+
+un Role. The function assumed by, or assigned to, a person in the project. Examples of project roles are civil 
+
+uu Identification of resources. Methods for identifying and quantifying team and physical resources needed.
+
+uu Acquiring resources. Guidance on how to acquire team and physical resources for the project.
+
+engineer, business analyst, and testing coordinator.
+
+uu Roles and responsibilities:
+
+318 
+
+Part 1 - Guide
+
+
