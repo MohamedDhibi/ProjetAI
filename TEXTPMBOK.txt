@@ -733,19 +733,19 @@ XVIII
 
 Table of Contents
 
-Figure 1-7. 
-
-Figure 1-5. 
-
-Figure 1-2. 
-
-Figure 1-1. 
+Figure 1-1. 
 
 Figure 1-3. 
 
-Figure 1-4. 
+Figure 1-2. 
+
+Figure 1-7. 
+
+Figure 1-5. 
 
 Figure 1-6. 
+
+Figure 1-4. 
 
 LI ST  OF  TAB LES  AND F IGU RES
 
@@ -788,17 +788,17 @@ Project Data, Information, and Report Flow .....................................
 
 Figure 4-2. 
 
+Figure 3-1. 
+
 Figure 4-3. 
 
-Figure 4-1. 
-
 Figure 1-8. 
-
-Figure 3-1. 
 
 Figure 3-2. 
 
 Figure 2-1. 
+
+Figure 4-1. 
 
 Figure 4-4. 
 
@@ -860,9 +860,9 @@ Plan Scope Management: Inputs, Tools & Techniques, and Outputs ............. 134
 
 Define Scope: Data Flow Diagram .................................................................. 151
 
-Sample WBS Decomposed Down Through Work Packages ........................... 158
-
 Collect Requirements: Inputs, Tools & Techniques, and Outputs .................. 138
+
+Sample WBS Decomposed Down Through Work Packages ........................... 158
 
 Define Scope: Inputs, Tools & Techniques, and Outputs ................................ 150
 
@@ -876,17 +876,17 @@ Sample WBS Organized by Phase ..................................................
 
 Context Diagram .............................................................................................. 146
 
-Example of a Requirements Traceability Matrix ............................................ 149
-
 Plan Scope Management: Data Flow Diagram ............................................... 134
 
-Figure 5-13. 
+Example of a Requirements Traceability Matrix ............................................ 149
 
 Figure 5-10. 
 
 Figure 5-11. 
 
 Figure 5-12. 
+
+Figure 5-13. 
 
 Figure 5-9. 
 
@@ -916,27 +916,27 @@ Validate Scope: Inputs, Tools & Techniques, and Outputs ........................
 
 Figure 6-5. 
 
-Figure 6-6. 
-
-Figure 6-8. 
-
-Figure 6-9. 
-
-Figure 6-3. 
-
-Figure 6-4. 
-
 Figure 6-1. 
-
-Figure 6-7. 
 
 Figure 6-2. 
 
-Figure 5-16. 
+Figure 6-3. 
+
+Figure 6-9. 
+
+Figure 6-4. 
+
+Figure 6-8. 
+
+Figure 6-7. 
+
+Figure 6-6. 
 
 Figure 5-17. 
 
 Figure 6-10. 
+
+Figure 5-16. 
 
 Figure 5-18. 
 
@@ -958,9 +958,9 @@ Sequence Activities: Data Flow Diagram .........................................
 
 Control Scope: Inputs, Tools & Techniques, and Outputs ............................... 167
 
-Precedence Diagramming Method (PDM) Relationship Types ...................... 190
-
 Plan Schedule Management: Inputs, Tools & Techniques, and Outputs ........ 179
+
+Precedence Diagramming Method (PDM) Relationship Types ...................... 190
 
 Sequence Activities: Inputs, Tools & Techniques, and Outputs ..................... 187
 
@@ -991,23 +991,23 @@ Examples of Lead and Lag .......................................................
 
 Figure 6-17. 
 
-Figure 6-20. 
-
-Figure 6-19. 
-
-Figure 6-18. 
-
-Figure 6-12. 
-
 Figure 6-13. 
 
 Figure 6-14. 
 
-Figure 6-15. 
+Figure 6-11. 
+
+Figure 6-12. 
+
+Figure 6-20. 
+
+Figure 6-18. 
+
+Figure 6-19. 
 
 Figure 6-16. 
 
-Figure 6-11. 
+Figure 6-15. 
 
 XXI
 
@@ -1021,29 +1021,29 @@ Control Schedule: Inputs, Tools & Techniques, and Outputs ......................
 
 Figure 7-6. 
 
-Figure 7-2. 
-
-Figure 7-8. 
-
-Figure 7-7. 
-
 Figure 7-5. 
 
-Figure 7-9. 
+Figure 7-2. 
 
 Figure 7-1. 
 
 Figure 7-3. 
 
+Figure 7-8. 
+
+Figure 7-7. 
+
+Figure 7-9. 
+
 Figure 7-4. 
+
+Figure 6-23. 
+
+Figure 6-24. 
 
 Figure 7-10. 
 
 Figure 7-11. 
-
-Figure 6-24. 
-
-Figure 6-23. 
 
 Control Schedule: Data Flow Diagram ............................................................ 223
 
@@ -1063,9 +1063,9 @@ Plan Cost Management: Data Flow Diagram ........................................
 
 Control Costs: Inputs, Tools & Techniques, and Outputs ................................ 257
 
-Estimate Costs: Inputs, Tools & Techniques, and Outputs ............................. 240
-
 Cost Baseline, Expenditures, and Funding Requirements ............................. 255
+
+Estimate Costs: Inputs, Tools & Techniques, and Outputs ............................. 240
 
 Plan Cost Management: Inputs, Tools & Techniques, and Outputs ................ 235
 
@@ -1073,15 +1073,15 @@ N ot F or Distribution, S ale or R eproduction.
 
 Plan Quality Management: Inputs, Tools & Techniques, and Outputs ........... 277
 
-Cost of Quality.................................................................................................. 283
+Manage Quality: Inputs, Tools & Techniques, and Outputs ............................ 288
 
 Major Project Quality Management Process Interrelations ........................... 273
 
-Manage Quality: Inputs, Tools & Techniques, and Outputs ............................ 288
-
-Control Costs: Data Flow Diagram .................................................................. 258
+Cost of Quality.................................................................................................. 283
 
 Project Quality Management Overview ........................................................... 272
+
+Control Costs: Data Flow Diagram .................................................................. 258
 
 Manage Quality: Data Flow Diagram .............................................................. 289
 
@@ -1095,27 +1095,27 @@ Earned Value, Planned Value, and Actual Costs ..................................
 
 To-Complete Performance Index (TCPI) .......................................................... 268
 
-Figure 7-13. 
-
 Figure 7-12. 
+
+Figure 7-13. 
 
 Figure 8-5. 
 
-Figure 8-8. 
-
-Figure 8-9. 
+Figure 8-3. 
 
 Figure 8-4. 
 
-Figure 8-3. 
-
 Figure 8-2. 
+
+Figure 8-6. 
 
 Figure 8-1. 
 
+Figure 8-9. 
+
 Figure 8-7. 
 
-Figure 8-6. 
+Figure 8-8. 
 
 XXII 
 
@@ -1131,21 +1131,21 @@ Control Quality: Data Flow Diagram .............................................
 
 Figure 9-7. 
 
+Figure 9-8. 
+
 Figure 9-9. 
-
-Figure 9-2. 
-
-Figure 9-6. 
 
 Figure 9-5. 
 
-Figure 9-3. 
+Figure 9-4. 
+
+Figure 9-6. 
 
 Figure 9-1. 
 
-Figure 9-4. 
+Figure 9-2. 
 
-Figure 9-8. 
+Figure 9-3. 
 
 Figure 9-10. 
 
@@ -1194,9 +1194,9 @@ Figure 10-6.  Manage Communications: Data Flow Diagram .........................
 
 Plan Communications Management: Data Flow Diagram ............................. 367
 
-Communication Model for Cross-Cultural Communication ........................... 373
-
 Control Resources: Inputs, Tools & Techniques, and Outputs........................ 352
+
+Communication Model for Cross-Cultural Communication ........................... 373
 
 Control Resources: Data Flow Diagram .......................................................... 353
 
@@ -1204,13 +1204,13 @@ Project Communications Overview ................................................
 
 Figure 10-3. 
 
-Figure 9-14. 
-
-Figure 10-1. 
+Figure 10-4. 
 
 Figure 9-15. 
 
-Figure 10-4. 
+Figure 10-1. 
+
+Figure 9-14. 
 
 Figure 10-2. 
 
@@ -1222,21 +1222,21 @@ Figure 11-1.
 
 Project Risk Management Overview ............................................................... 396
 
-Figure 11-8. 
-
-Figure 11-2. 
-
-Figure 11-3. 
-
-Figure 11-9. 
+Figure 11-7. 
 
 Figure 11-5. 
 
-Figure 11-7. 
+Figure 11-2. 
+
+Figure 11-9. 
+
+Figure 11-4. 
+
+Figure 11-8. 
 
 Figure 11-6. 
 
-Figure 11-4. 
+Figure 11-3. 
 
 Plan Risk Management: Inputs, Tools & Techniques, and Outputs ................ 401
 
@@ -1252,9 +1252,9 @@ and Impact Value ...............................................................
 
 Plan Risk Management: Data Flow Diagram .................................................. 402
 
-Perform Qualitative Risk Analysis: Data Flow Diagram ................................. 420
-
 Extract from Sample Risk Breakdown Structure (RBS) ................................. 406
+
+Perform Qualitative Risk Analysis: Data Flow Diagram ................................. 420
 
 Example Probability and Impact Matrix with Scoring Scheme ..................... 408
 
@@ -1269,9 +1269,9 @@ N ot F or Distribution, S ale or R eproduction.
 
 Figure 11-16.  Plan Risk Responses: Inputs, Tools & Techniques, and Outputs ................... 437
 
-Figure 11-20.  Monitor Risks: Inputs, Tools & Techniques, and Outputs ............................... 453
-
 Figure 11-13.  Example S-Curve from Quantitative Cost Risk Analysis ................................ 433
+
+Figure 11-20.  Monitor Risks: Inputs, Tools & Techniques, and Outputs ............................... 453
 
 Figure 11-17.  Plan Risk Responses: Data Flow Diagram ...................................................... 438
 
@@ -1307,23 +1307,23 @@ Plan Procurement Management: Data Flow Diagram .................................
 
 Figure 13-4. 
 
-Figure 12-6. 
+Figure 13-1. 
+
+Figure 13-2. 
 
 Figure 12-7. 
 
 Figure 12-4. 
 
-Figure 13-1. 
-
-Figure 13-2. 
+Figure 12-6. 
 
 Figure 12-5. 
+
+Figure 13-5. 
 
 Figure 13-3. 
 
 Figure 13-6. 
-
-Figure 13-5. 
 
 Conduct Procurements: Inputs, Tools & Techniques, and Outputs ................ 482
 
@@ -1337,9 +1337,9 @@ Plan Stakeholder Engagement: Inputs, Tools & Techniques, and Outputs .... 516
 
 and Outputs...................................................................................................... 523
 
-Control Procurements: Data Flow Diagram .................................................... 493
-
 Identify Stakeholders: Inputs, Tools & Techniques, and Outputs................... 507
+
+Control Procurements: Data Flow Diagram .................................................... 493
 
 Conduct Procurements: Data Flow Diagram .................................................. 483
 
@@ -1373,17 +1373,17 @@ Project Business Documents .....................................................
 
 and Outputs...................................................................................................... 530
 
-Table 1-3. 
+Table 3-1. 
 
 Table 1-4. 
 
-Table 3-1. 
-
-Table 1-1. 
+Table 1-5. 
 
 Table 1-2. 
 
-Table 1-5. 
+Table 1-3. 
+
+Table 1-1. 
 
 Table 2-1. 
 
@@ -1399,23 +1399,23 @@ Elements of the Project Charter and Project Scope Statement ....................
 
 Table 7-1. 
 
+Figure 1-4. 
+
 Figure 1-1. 
-
-Figure 1-2. 
-
-Figure 2-2. 
-
-Figure 2-1. 
 
 Figure 1-3. 
 
-Figure 1-4. 
+Figure 1-2. 
 
 Figure 1-5. 
 
-Table 12-1. 
+Figure 2-1. 
+
+Figure 2-2. 
 
 Table 11-1. 
+
+Table 12-1. 
 
 Earned Value Calculations Summary Table .................................................... 267
 
@@ -1464,23 +1464,23 @@ Initiating Process Group .......................................................
 
 Figure 3-5. 
 
-Figure 2-3. 
-
-Figure 3-2. 
+Figure 3-4. 
 
 Figure 3-1. 
 
-Figure 2-4. 
+Figure 3-6. 
 
-Figure 3-3. 
-
-Figure 3-8. 
+Figure 3-2. 
 
 Figure 3-7. 
 
-Figure 3-4. 
+Figure 2-4. 
 
-Figure 3-6. 
+Figure 2-3. 
+
+Figure 3-8. 
+
+Figure 3-3. 
 
 XXVI 
 
@@ -1496,25 +1496,25 @@ Estimate Activity Durations: Inputs and Outputs ................................
 
 Figure 3-18. 
 
+Figure 3-15. 
+
 Figure 3-17. 
 
 Figure 3-16. 
 
-Figure 3-15. 
-
 Figure 3-14. 
 
-Figure 3-13. 
+Figure 3-11. 
 
 Figure 3-12. 
 
-Figure 3-11. 
+Figure 3-13. 
+
+Figure 3-23. 
 
 Figure 3-20. 
 
 Figure 3-21. 
-
-Figure 3-23. 
 
 Figure 3-22. 
 
@@ -1526,9 +1526,9 @@ Identify Risks: Inputs and Outputs..............................................
 
 Estimate Costs: Inputs and Outputs................................................................ 577
 
-Plan Resource Management: Inputs and Outputs .......................................... 581
-
 Plan Quality Management: Inputs and Outputs .............................................. 580
+
+Plan Resource Management: Inputs and Outputs .......................................... 581
 
 Plan Risk Management: Inputs and Outputs .................................................. 585
 
@@ -1546,9 +1546,9 @@ Perform Qualitative Risk Analysis: Inputs and Outputs ..........................
 
 N ot F or Distribution, S ale or R eproduction.
 
-Plan Procurement Management: Inputs and Outputs .................................... 592
-
 Plan Stakeholder Engagement: Inputs and Outputs ...................................... 594
+
+Plan Procurement Management: Inputs and Outputs .................................... 592
 
 Direct and Manage Project Work: Inputs and Outputs ................................... 597
 
@@ -1570,25 +1570,25 @@ Plan Risk Responses: Inputs and Outputs ........................................
 
 Implement Risk Responses: Inputs and Outputs ........................................... 607
 
-Figure 3-25. 
-
 Figure 3-24. 
+
+Figure 3-25. 
 
 Figure 4-5. 
 
 Figure 4-4. 
 
-Figure 4-9. 
-
-Figure 4-6. 
-
 Figure 4-3. 
-
-Figure 4-2. 
 
 Figure 4-7. 
 
+Figure 4-9. 
+
 Figure 4-1. 
+
+Figure 4-2. 
+
+Figure 4-6. 
 
 Figure 4-8. 
 
@@ -1602,9 +1602,9 @@ Figure 4-11.  Manage Stakeholder Engagement: Inputs and Outputs ................
 
 Figure 5-8. 
 
-Figure 5-5. 
+Figure 5-6. 
 
-Figure 5-7. 
+Figure 5-3. 
 
 Figure 5-4. 
 
@@ -1612,11 +1612,11 @@ Figure 5-9.
 
 Figure 5-2. 
 
-Figure 5-3. 
+Figure 5-5. 
 
 Figure 5-1. 
 
-Figure 5-6. 
+Figure 5-7. 
 
 Figure 5-12. 
 
@@ -1660,9 +1660,9 @@ Figure 6-2.
 
 Figure 6-1. 
 
-Table 1-2. 
-
 Table 1-1. 
+
+Table 1-2. 
 
 XXVIII 
 
@@ -1677,17 +1677,17 @@ Table X6-1.
 
 Table X1-5. 
 
-Table X1-2. 
-
-Table X1-3. 
-
-Table X1-6. 
-
 Table X1-1. 
+
+Table X1-7. 
 
 Table X1-8. 
 
-Table X1-7. 
+Table X1-6. 
+
+Table X1-2. 
+
+Table X1-3. 
 
 Figure X3-1. 
 
@@ -1701,21 +1701,21 @@ Section 9 Changes ..............................................................
 
 Section 10 Changes ......................................................................................... 648
 
-Section 11 Changes ......................................................................................... 648
-
 Section 6 Changes ........................................................................................... 646
 
-Section 12 Changes ......................................................................................... 649
-
-Section 13 Changes ......................................................................................... 650
+Section 11 Changes ......................................................................................... 648
 
 Section 4 Changes ........................................................................................... 645
 
+Section 13 Changes ......................................................................................... 650
+
+Section 12 Changes ......................................................................................... 649
+
 Section 8 Changes ........................................................................................... 646
 
-Relationship of Process Groups in Continuous Phases ................................. 668
-
 Level of Effort for Process Groups across Iteration Cycles ........................... 667
+
+Relationship of Process Groups in Continuous Phases ................................. 668
 
 N ot F or Distribution, S ale or R eproduction.
 
@@ -2681,31 +2681,31 @@ Program
 C
 
 Project
-1
+2
 
 Project
-3
+1
 
 Project
 4
 
 Project
-2
+3
 
 Project
 8
 
 Project
-7
+6
 
 Project
 9
 
 Project
-6
+5
 
 Project
-5
+7
 
 Operations
 
@@ -3106,10 +3106,10 @@ the Project
 Ending the
 Project
 
-Closing
+Planning
 Processes
 
-Planning
+Closing
 Processes
 
 Executing
@@ -3448,11 +3448,11 @@ Part 1 - Guide
 
 Project Management Process Groups 
 
+6.
+
 4.
 
 5.
-
-6.
 
 7.
 
@@ -3641,13 +3641,13 @@ Resources
 
 7.4 Control Costs
 
-11.
-
 10.
 
-13.
+11.
 
 12.
+
+13.
 
 9.
 
@@ -3849,11 +3849,11 @@ the Work
 Organizing
 and Preparing
 
-Project
+Benefits
 Management
 Plan
 
-Benefits
+Project
 Management
 Plan
 
@@ -4386,15 +4386,15 @@ uu Governance frameworks, and
 
 uu Organizational structure types.
 
-Projects operate within the constraints imposed by the organization through their structure and governance framework. 
-To operate effectively and efﬁciently, the project manager needs to understand where responsibility, accountability, and 
-authority reside within the organization. This understanding will help the project manager effectively use his or her 
-power, inﬂuence, competence, leadership, and political capabilities to successfully complete the project.
-
 The interaction of multiple factors within an individual organization creates a unique system that impacts the project 
 operating in that system. The resulting organizational system determines the power, inﬂuence, interests, competence, 
 and political capabilities of the people who are able to act within the system. The system factors include but are not 
 limited to:
+
+Projects operate within the constraints imposed by the organization through their structure and governance framework. 
+To operate effectively and efﬁciently, the project manager needs to understand where responsibility, accountability, and 
+authority reside within the organization. This understanding will help the project manager effectively use his or her 
+power, inﬂuence, competence, leadership, and political capabilities to successfully complete the project.
 
 The  complete  information  and  explanation  of  the  organizational  system  factors  and  how  the  combination  of 
 these factors impacts a project are beyond the scope of this guide. There are disciplines with associated literature, 
@@ -4711,12 +4711,12 @@ like coordinator
 Part-time; may or 
 may not be a 
 designated job role 
-like coordinator
+like coordinator 
 
 Part-time; may or 
 may not be a 
 designated job role 
-like coordinator 
+like coordinator
 
 Part-time; done as 
 part of another job 
@@ -6443,9 +6443,9 @@ un Ecological impacts (e.g., a company authorizing a project to lessen its envir
 
 un Legal requirement (e.g., a paint manufacturer authorizing a project to establish guidelines for handling 
 
-un Customer  request  (e.g.,  an  electric  utility  authorizing  a  project  to  build  a  new  substation  to  serve  a  new 
-
 un Technological advance (e.g., an airline authorizing a new project to develop electronic tickets instead of paper 
+
+un Customer  request  (e.g.,  an  electric  utility  authorizing  a  project  to  build  a  new  substation  to  serve  a  new 
 
 un Social  need  (e.g.,  a  nongovernmental  organization  in  a  developing  country  authorizing  a  project  to 
 provide potable water systems, latrines, and sanitation education to communities suffering from high 
@@ -7313,17 +7313,17 @@ Risks
 Project
 Documents
 
-8.3
+7.4
 Control
-Quality
+Costs
 
 5.6
 Control
 Scope
 
-7.4
+8.3
 Control
-Costs
+Quality
 
 •  Risk register
 •  Risk report
@@ -8212,13 +8212,13 @@ Risks
 Control
 Quality
 
-7.4
-Control
-Costs
-
 5.6.
 Control
 Scope
+
+7.4
+Control
+Costs
 
 • Project
    charter
@@ -8781,13 +8781,13 @@ Risks
 Control
 Quality
 
-5.6.
-Control
-Scope
-
 7.4. 
 Control
 Costs
+
+5.6.
+Control
+Scope
 
 114 
 
@@ -8844,13 +8844,13 @@ uu Cost baseline. Described in Section 7.3.3.1. The cost baseline is used to ass
 
 uu Schedule baseline. Described in Section 6.5.3.1. The schedule baseline is used to assess the impact of the 
 
-uu Change management plan. Described in Section 4.2.3.1. The change management plan provides the direction 
-for managing the change control process and documents the roles and responsibilities of the change control 
-board (CCB).
-
 uu Configuration management plan. Described in Section 4.2.3.1. The conﬁguration management plan describes 
 the  conﬁgurable  items  of  the  project  and  identiﬁes  the  items  that  will  be  recorded  and  updated  so  that  the 
 product of the project remains consistent and operable.
+
+uu Change management plan. Described in Section 4.2.3.1. The change management plan provides the direction 
+for managing the change control process and documents the roles and responsibilities of the change control 
+board (CCB).
 
 N ot F or Distribution, S ale or R eproduction.
 
@@ -10558,11 +10558,11 @@ External
 Jobs
 Websites
 
-External
+Internal
 Jobs
 Postings
 
-Internal
+External
 Jobs
 Postings
 
@@ -10760,6 +10760,14 @@ Cases
 
 003
 
+1.2
+
+2.0
+
+1.0
+
+4.0
+
 3.1
 
 2.1
@@ -10768,17 +10776,9 @@ Cases
 
 5.0
 
-1.0
-
-2.0
-
-4.0
-
-1.2
+3.0
 
 3.2
-
-3.0
 
 ID
 
@@ -11186,12 +11186,12 @@ depicted in Figure 5-10. Figure 5-11 depicts the data ﬂow diagram of the proce
 
 N ot F or Distribution, S ale or R eproduction.
 
-Project document updates
-•  Assumption log
-•  Requirements documentation
-
 Project documents
 •  Project scope statement
+•  Requirements documentation
+
+Project document updates
+•  Assumption log
 •  Requirements documentation
 
 Figure 5-11. Create WBS: Data Flow Diagram
@@ -12329,9 +12329,9 @@ updates
 
 .4  Organizational process assets
 
-.4  Organizational process assets
-
 .3  Organizational process assets
+
+.4  Organizational process assets
 
 6.2 Define Activities
 
@@ -12748,9 +12748,9 @@ N ot F or Distribution, S ale or R eproduction.
 
 The organizational process assets that can inﬂuence the Plan Schedule Management process include but are not 
 
-uu Guidelines and criteria for tailoring the organization’s set of standard processes and procedures to satisfy the 
-
 uu Existing  formal  and  informal  schedule  development,  management-  and  control-related  policies,  procedures,  
+
+uu Guidelines and criteria for tailoring the organization’s set of standard processes and procedures to satisfy the 
 
 uu Commercial databases, such as standardized estimating data.
 
@@ -13423,9 +13423,9 @@ A
 
 C
 
-D
-
 B
+
+D
 
 SS
 
@@ -14333,27 +14333,27 @@ Part 1 - Guide
 
 B
 
-0
-
 5
 
 0
 
-5
+6
 
 0
 
-1
+5
+
+5
 
 5
 
 6
 
-5
+0
 
 1
 
-6
+1
 
 A
 
@@ -14361,9 +14361,9 @@ C
 
 D
 
-15
-
 30
+
+16
 
 15
 
@@ -14373,11 +14373,11 @@ D
 
 16
 
+10
+
 15
 
-16
-
-10
+15
 
 30
 
@@ -14394,10 +14394,10 @@ Start
 Total
 Float
 
-Late
+Early
 Finish
 
-Early
+Late
 Finish
 
 Activity Name
@@ -14539,19 +14539,19 @@ N ot F or Distribution, S ale or R eproduction.
 
 0.07
 
-0.05
-
 0.06
-
-0.08
-
-0.04
-
-0.01
 
 0.00
 
 0.02
+
+0.08
+
+0.01
+
+0.05
+
+0.04
 
 0.03
 
@@ -14563,15 +14563,15 @@ N ot F or Distribution, S ale or R eproduction.
 
 10.0%
 
-62.5%
-
-75.0%
-
-87.5%
+50.0%
 
 25.0%
 
-50.0%
+87.5%
+
+62.5%
+
+75.0%
 
 100.0%
 
@@ -14640,19 +14640,19 @@ Crashing
 
 10
 
-10
-
-10
-
-11
-
-13
-
 14
 
 11
 
+11
+
+10
+
+10
+
 12
+
+13
 
 15
 
@@ -14660,57 +14660,57 @@ Crashing
 
 5
 
+8
+
 9
 
-6
+9
+
+8
+
+8
+
+7
+
+7
+
+8
 
 5
-
-8
-
-7
-
-9
-
-7
-
-8
-
-8
-
-7
-
-7
-
-8
 
 6
 
 9
 
-5
+7
+
+6
 
 5
 
-4
+5
 
-4
-
-1
+7
 
 3
 
-3
+4
+
+4
 
 2
 
+1
+
+1
+
 2
 
 4
 
 3
 
-1
+3
 
 4
 
@@ -14768,9 +14768,6 @@ drives release plans
 Feature A
 (User Story 1)
 
-Feature A
-(User Story 2)
-
 Feature D
 (User Story 5)
 
@@ -14779,6 +14776,9 @@ Feature B
 
 Feature C
 (User Story 4)
+
+Feature A
+(User Story 2)
 
 Iteration Plan
 
@@ -14794,15 +14794,15 @@ Iteration 0
 
 Iteration n
 
-Release 3
-
 Release 2
+
+Release 3
 
 Release 1
 
-Task B
-
 Task D
+
+Task B
 
 Task C
 
@@ -14810,11 +14810,11 @@ Task A
 
 12 Hours
 
-8 Hours
-
 5 Hours
 
 4 Hours
+
+8 Hours
 
 216 
 
@@ -14932,11 +14932,11 @@ Period 5
 
 1.1.MB
 
-Period 4
-
 Period 1
 
 Period 5
+
+Period 4
 
 Period 3
 
@@ -14946,9 +14946,9 @@ Period 2
 
 1.1.1.M1
 
-1.1.3.M1
-
 1.1.2.M1
+
+1.1.3.M1
 
 Data Date
 
@@ -15036,9 +15036,9 @@ Deliver Product Z
 
 Data Date
 
-1.1.3.M1
-
 1.1.2.M1
+
+1.1.3.M1
 
 1.1.1.M1
 
@@ -15048,11 +15048,11 @@ Period 2
 
 Period 3
 
+Period 1
+
 Period 5
 
 Period 4
-
-Period 1
 
 1.1.2.D
 
@@ -15082,9 +15082,11 @@ Period 1
 
 1.1
 
-67
+20
 
-53
+33
+
+67
 
 28
 
@@ -15092,9 +15094,7 @@ Period 1
 
 32
 
-33
-
-20
+53
 
 11
 
@@ -15570,23 +15570,23 @@ n
 
 0
 
-3
+4
 
-2
+3
 
 1
 
-4
-
 5
 
-6
+2
 
-7
+9
 
 8
 
-9
+7
+
+6
 
 i
 
@@ -18914,9 +18914,9 @@ N ot F or Distribution, S ale or R eproduction.
 
 uu Risk register. Described in Section 11.2.3.1. New risks identiﬁed during this process are recorded in the risk 
 
-uu Lessons learned register. Described in Section 4.4.3.1. The lessons learned register is updated with information 
-
 uu Stakeholder register. Described in Section 13.1.3.1. Where additional information on existing or new stakeholders 
+
+uu Lessons learned register. Described in Section 4.4.3.1. The lessons learned register is updated with information 
 
 uu Requirements traceability matrix. Described in Section 5.2.3.2. Where quality requirements are speciﬁed by 
 
@@ -19740,11 +19740,11 @@ Large scratch
 
 Wrong color
 
- Date 3
+ Date 1
 
  Date 4
 
- Date 1
+ Date 3
 
  Date 2
 
@@ -19754,65 +19754,65 @@ tal
 
 To
 
-0
-
-3
-
-5
+2
 
 1
 
 2
-
-3
-
-2
-
-0
-
-1
-
-8
-
-3
-
-2
-
-0
 
 9
 
 2
 
-1
-
-1
-
 0
 
 1
 
-2
-
-2
-
 1
 
-0
-
-1
+2
 
 6
 
+8
+
 1
 
-2
+3
 
-2
+1
 
 6
 
 7
+
+2
+
+3
+
+1
+
+0
+
+2
+
+5
+
+2
+
+0
+
+1
+
+0
+
+2
+
+0
+
+1
+
+3
 
 302 
 
@@ -21216,10 +21216,10 @@ Role
 1
 
 Role
-2
+3
 
 Role
-3
+2
 
 Personnel
 
@@ -23266,9 +23266,9 @@ and websites, media releases.
 
 careful selection of the methods, messengers, and messages developed from the planning process.
 
-Misunderstandings can be reduced but not eliminated through using the 5Cs of written communications in composing 
-
 The project’s communications are supported by efforts to prevent misunderstandings and miscommunication and by 
+
+Misunderstandings can be reduced but not eliminated through using the 5Cs of written communications in composing 
 
 Communication develops the relationships necessary for successful project and program outcomes. Communication 
 activities  and  artifacts  to  support  communication  vary  widely,  ranging  from  emails  and  informal  conversations  to 
@@ -25342,9 +25342,9 @@ un Empowered project team that has clear objectives and that is trusted to get t
 
 un Flexible project processes that can cope with emergent risk while maintaining overall direction toward project 
 
-un Clear input from stakeholders to clarify areas where the project scope or strategy can be adjusted in response 
-
 un Right level of budget and schedule contingency for emergent risks, in addition to a speciﬁc risk budget for 
+
+un Clear input from stakeholders to clarify areas where the project scope or strategy can be adjusted in response 
 
 Variability risks can be addressed using Monte Carlo analysis, with the range of variation reﬂected in probability 
 distributions, followed by actions to reduce the spread of possible outcomes. Ambiguity risks are managed by 
@@ -25786,9 +25786,9 @@ Very Low
 
 51-70%
 
-11-30%
-
 31-50%
+
+11-30%
 
 <$100K
 
@@ -25836,45 +25836,25 @@ i
 
 0.14
 
+0.05
+
 0.09
-
-0.02
-
-0.03
 
 0.04
 
-0.05
-
-0.05
-
 0.40
 
 0.56
 
 0.72
 
-0.20
-
-0.28
-
-0.40
-
-0.56
-
-0.72
+0.05
 
 0.20
 
 0.28
 
 0.36
-
-0.05
-
-0.09
-
-0.04
 
 0.36
 
@@ -25883,6 +25863,26 @@ i
 0.03
 
 0.05
+
+0.09
+
+0.02
+
+0.03
+
+0.40
+
+0.04
+
+0.05
+
+0.72
+
+0.20
+
+0.28
+
+0.56
 
 0.12
 
@@ -25968,10 +25968,10 @@ Very High
 0.80
 
 Very Low
-0.05
+0.10
 
 Very Low
-0.10
+0.05
 
 Very Low
 0.05
@@ -25979,14 +25979,14 @@ Very Low
 Medium
 0.50
 
-Low
-0.10
-
-Low
-0.10
-
 High
 0.40
+
+Low
+0.10
+
+Low
+0.10
 
 High
 0.40
@@ -25998,21 +25998,21 @@ Low
 
 0.02
 
-0.03
-
-0.02
-
-0.03
-
 0.06
 
 0.02
+
+0.08
 
 0.04
 
 0.08
 
-0.08
+0.03
+
+0.03
+
+0.02
 
 0.04
 
@@ -27275,50 +27275,50 @@ Expected
 Value
 $2.35M
 
-C
+b
+a
+b
+o
+r
+P
+e
+v
+i
+t
+a
 u
 m
 u
-a
-t
-i
-v
-e
-P
-r
-o
-b
-a
-b
+C
 
-b
-a
-b
-o
-r
-P
-e
-v
-i
-t
-a
+C
 u
 m
 u
-C
+a
+t
+i
+v
+e
+P
+r
+o
+b
+a
+b
 
 Target
 $2.2M
 
-$2.5M
-
-$2.6M
-
-$2.4M
+$2.3M
 
 $2.7M
 
-$2.3M
+$2.4M
+
+$2.5M
+
+$2.6M
 
 $2.2M
 
@@ -27330,49 +27330,49 @@ $2.1M
 
 100
 
-i
-l
-i
-t
-y
-
 y
 t
 i
 l
 i
 
-30
+i
+l
+i
+t
+y
 
 90
 
-70
-
 40
 
-80
-
-60
+50
 
 20
 
-50
-
-50
-
 80
+
+70
 
 60
 
 30
 
+30
+
+40
+
 70
 
-90
+50
 
 20
 
-40
+90
+
+60
+
+80
 
 10
 
@@ -27385,12 +27385,12 @@ i
 0
 
 0
+
+)
 
 )
 
 (
-
-)
 
 (
 
@@ -29398,9 +29398,9 @@ Described in Section 4.2.3.1. Project management plan components include but are
 
 uu Business case. The procurement strategy and business case need to be aligned to ensure the business case 
 
-uu Benefits  management  plan.  The  beneﬁts  management  plan  describes  when  speciﬁc  project  beneﬁts  are 
-
 uu Scope management plan. Described in Section 5.1.3.1. The scope management plan describes how the scope 
+
+uu Benefits  management  plan.  The  beneﬁts  management  plan  describes  when  speciﬁc  project  beneﬁts  are 
 
 uu Resource management plan. Described in Section 9.1.3.1. The resource management plan has information on 
 which resources will be purchased or leased, along with any assumptions or constraints that would inﬂuence 
@@ -30516,9 +30516,9 @@ may require updates to the risk management plan. Speciﬁc risks are incorporate
 
 uu Quality  management  plan.  Described  in  Section  8.1.3.1.  Sellers  may  offer  alternative  quality  standards  or 
 
-uu Requirements management plan. Described in Section 5.1.3.2. There may be changes to project requirements 
-
 uu Communications management plan. Described in Section 10.1.3.1. As sellers are hired, the communications 
+
+uu Requirements management plan. Described in Section 5.1.3.2. There may be changes to project requirements 
 
 uu Procurement management plan. Described in Section 12.1.3.1. Updates may be required depending on the 
 
@@ -32173,9 +32173,9 @@ uu Project schedule. Described in Section 6.5.3.2. The schedule contains activit
 
 uu Assumption log. Described in Section 4.1.3.2. The assumption log contains information about assumptions and 
 
-uu Risk register. Described in Section 11.2.3.1. The risk register contains the identiﬁed risks of the project and usually 
-
 uu Stakeholder register. Described in Section 13.1.3.1. The stakeholder register provides the list of project stakeholders 
+
+uu Risk register. Described in Section 11.2.3.1. The risk register contains the identiﬁed risks of the project and usually 
 
 uu Issue  log.  Described  in  Section  4.3.3.3.  Managing  and  resolving  issues  contained  in  the  issue  log  will  require 
 
@@ -32320,11 +32320,11 @@ Neutral
 
 Leading
 
+Stakeholder 1
+
 Stakeholder 2
 
 Stakeholder 3
-
-Stakeholder 1
 
 Unaware
 
