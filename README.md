@@ -31,6 +31,21 @@ This project aims to provide a comprehensive NLP pipeline for processing text da
 - Frequency Analysis: Calculates the frequencies of concept appearances to identify relevant concepts.
 - Utilize NLP Models: Utilizes models like SBERT, KBERT, TOPICBERT, and the REBEL model for specific NLP tasks.
 
+## Data science requirements:
+
+Data Retrieval : Gather and consolidate data from PMBOK 6th best practices and PMI's practice standard for Project Risk Management.
+Data preprocessing: The data needs to be cleaned and preprocessed before it can be used to build the conceptual graph and train the recommender engine. This may involve tasks such as tokenization, normalization, stop word removal, and stemming.
+Conceptual Graph Creation: Develop a structured conceptual graph representing key PRM concepts, relationships, and properties.
+Model training: The recommender engine needs to be trained on an ontology of historical PRM issues and their resolutions. This can be done using a variety of machine learning techniques, such as collaborative filtering, content-based filtering, or hybrid approaches.
+Performance Metrics: Define predictive performance metrics, such as recommendation accuracy and relevance, to continuously improve the predictive analytics component.
+
+## Business requirements:
+
+The system should be able to recommend PRM issues to project managers based on their specific needs and context. The recommendations should be personalized and relevant to the project manager's current tasks and priorities.
+The system should be easy to use and understand. Project managers should be able to easily interact with the system to filter and sort recommendations, and to provide feedback on the system's performance.
+The system should be scalable and able to handle a large volume of data. The system should be able to provide recommendations to project managers in real time, even as the dataset of PRM issues grows.
+
+
 ## Getting Started
 
 ### Prerequisites
