@@ -1,0 +1,13 @@
++/- IMPACT ON PROJECT OBJECTIVES
+SCALE PROBABILITY
+TIME COST QUALITY
+Very High >70% >6 months >$5M Very significant impact on overall functionality
+
+| High | 51-70% 3-6 months $1M-$5M Significant impact on overall functionality
+
+31-50% 1-3 months $501K-$1M Some impact in key functional areas
+11-30% $100K-$500K Minor impact on overall functionality
+
+Very Low 1 week <$100K Minor impact on secondary functions
+
+Nil No change No change No change in functionality

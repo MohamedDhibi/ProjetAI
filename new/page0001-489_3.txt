@@ -1,0 +1,13 @@
+.1 Project management plan
+¢ Risk management plan
+.2 Project documents
+¢ Issue log
+
+¢ Lessons learned register
+¢ Risk register
+¢ Risk report
+
+.3 Work performance data
+
+4 Work performance reports
+

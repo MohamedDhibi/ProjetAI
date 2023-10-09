@@ -1,0 +1,27 @@
+.1 Project management plan
+¢ Requirements management
+plan
+¢ Schedule management plan
+¢ Cost management plan
+¢ Quality management plan
+¢ Resource management plan
+¢ Risk management plan
+¢ Scope baseline
+¢ Schedule baseline
+¢ Cost baseline
+.2 Project documents
+¢ Assumption log
+Cost estimates
+Duration estimates
+Issue log
+Lessons learned register
+Requirements
+documentation
+Resource requirements
+Stakeholder register
+.3 Agreements
+4 Procurement documentation
+.5 Enterprise environmental
+factors
+.6 Organizational process assets
+

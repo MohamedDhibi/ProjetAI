@@ -1,0 +1,9 @@
+.1 Project management plan
+¢ Risk management plan
+.2 Project documents
+
+¢ Lessons learned register
+¢ Risk register
+¢ Risk report
+.3 Organizational process assets
+

@@ -1,0 +1,34 @@
+Outputs
+
+.1 Change requests
+.2 Project management plan
+
+updates
+
+¢ Schedule management plan
+
+¢ Cost management plan
+
+¢ Quality management plan
+
+¢ Resource management plan
+
+¢ Procurement management
+plan
+
+* Scope baseline
+
+¢ Schedule baseline
+
+¢ Cost baseline
+
+Project documents updates
+
+¢ Assumption log
+Cost forecasts
+Lessons learned register
+Project schedule
+Project team assignments
+Risk register
+Risk report
+

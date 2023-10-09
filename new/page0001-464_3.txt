@@ -1,0 +1,26 @@
+.1 Project management plan
+¢ Risk management plan
+¢ Scope baseline
+¢ Schedule baseline
+¢ Cost baseline
+
+.2 Project documents
+¢ Assumption log
+¢ Basis of estimates
+¢ Cost estimates
+
+Cost forecasts
+Duration estimates
+Milestone list
+Resource requirements
+Risk register
+
+Risk report
+
+Schedule forecasts
+
+.3 Enterprise environmental
+factors
+
+Organizational process assets
+

@@ -1,0 +1,13 @@
+.1 Project management plan
+¢ Risk management plan
+.2 Project documents
+¢ Assumption log
+
+¢ Risk register
+¢ Stakeholder register
+
+.3 Enterprise environmental
+factors
+
+4 Organizational process assets
+

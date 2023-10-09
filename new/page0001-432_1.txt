@@ -1,0 +1,218 @@
+11.1 Plan
+Risk Management
+
+-1 Inputs
+
+.1 Project charter
+
+.2 Project management plan
+
+.3 Project documents
+
+4 Enterprise environmental
+factors
+
+5 Organizational process
+assets
+
+.2 Tools & Techniques
+.1 Expert judgment
+.2 Data analysis
+.3 Meetings
+
+3 Outputs
+.1 Risk management plan
+
+11.5 Plan
+Risk Responses
+
+1 Inputs
+.1 Project management plan
+.2 Project documents
+.3 Enterprise environmental
+factors
+4 Organizational process
+assets
+
+.2 Tools & Techniques
+
+.1 Expert judgment
+
+.2 Data gathering
+
+.3 Interpersonal and team
+skills
+
+4 Strategies for threats
+
+.5 Strategies for opportunities
+
+.6 Contingent response
+strategies
+
+.] Strategies for overall
+project risk
+
+.8 Data analysis
+
+.9 Decision making
+
+3 Outputs
+.1 Change requests
+.2 Project management plan
+updates
+.3 Project documents updates
+
+Project Risk
+Management Overview
+
+11.2 Identify Risks
+
+1 Inputs
+
+.1 Project management plan
+
+.2 Project documents
+
+.3 Agreements
+
+4 Procurement
+documentation
+
+.5 Enterprise environmental
+factors
+
+.6 Organizational process
+assets
+
+.2 Tools & Techniques
+.1 Expert judgment
+.2 Data gathering
+.3 Data analysis
+4 Interpersonal and team
+skills
+.5 Prompt lists
+.6 Meetings
+
+.3 Outputs
+.1 Risk register
+.2 Risk report
+.3 Project documents
+updates
+
+11.6 Implement
+Risk Responses
+
+.1 Inputs
+.1 Project management plan
+.2 Project documents
+.3 Organizational process
+assets
+
+.2 Tools & Techniques
+.1 Expert judgment
+.2 Interpersonal and team
+skills
+.3 Project management
+information system
+
+3 Outputs
+.1 Change requests
+.2 Project documents updates
+
+11.3 Perform
+Qualitative Risk Analysis
+
+.1 Inputs
+
+.1 Project management plan
+
+.2 Project documents
+
+.3 Enterprise environmental
+factors
+
+4 Organizational process
+assets
+
+.2 Tools & Techniques
+
+-1 Expert judgment
+
+.2 Data gathering
+
+3 Data analysis
+
+4 Interpersonal and team
+skills
+
+.5 Risk categorization
+
+.6 Data representation
+
+.] Meetings
+
+.3 Outputs
+
+.1 Project documents updates
+
+11.7 Monitor Risks
+
+.1 Inputs
+
+.1 Project management plan
+.2 Project documents
+
+.3 Work performance data
+
+4 Work performance reports
+
+.2 Tools & Techniques
+
+.1 Data analysis
+.2 Audits
+3 Meetings
+
+.3 Outputs
+
+.1 Work performance
+information
+
+.2 Change requests
+
+.3 Project management plan
+updates
+
+4 Project documents updates
+
+5 Organizational process
+assets updates
+
+11.4 Perform
+Quantitative Risk Analysis
+
+-1 Inputs
+.1 Project management plan
+.2 Project documents
+.3 Enterprise environmental
+factors
+4 Organizational process
+assets
+
+.2 Tools & Techniques
+
+-1 Expert judgment
+
+.2 Data gathering
+
+.3 Interpersonal and team
+skills
+
+4 Representations of
+uncertainty
+
+5 Data analysis
+
+3 Outputs
+.1 Project documents
+updates

@@ -1,0 +1,51 @@
+Very High
+0.90
+
+High
+0.70
+
+Medium
+0.50
+0.02
+0.01
+
+Very High
+
+0.90 : : ~ joss | 009°
+High
+0.70 : . . . . . 0.28 Fer! 0.07
+; ; ; / / 030 | 005 |
+0.06 0.03
+
+Medium
+0.50
+
+AIGeqoid
+
+>
+=
+3
+FS
+°
+=
+a
+
+Low
+
+Low
+0.30
+
+0.30
+
+Very Low
+
+Very Low
+0.10
+
+0.10
+
+Low Moderate High Very High | Very High High Moderate Very Low
+0.10 0.20 0.40 . . 0.40 0.20 0.05
+
+Negative Impact Positive Impact
+

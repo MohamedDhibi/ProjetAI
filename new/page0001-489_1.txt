@@ -1,0 +1,21 @@
+Outputs
+
+-1 Work performance
+information
+
+.2 Change requests
+
+.3 Project management plan
+updates
+¢ Any component
+
+4 Project documents updates
+¢ Assumption log
+¢ Issue log
+¢ Lessons learned register
+¢ Risk register
+¢ Risk report
+
+.5 Organizational process assets
+updates
+

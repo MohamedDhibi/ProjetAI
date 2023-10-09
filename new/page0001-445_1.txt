@@ -1,0 +1,10 @@
+Outputs
+
+.1 Risk register
+.2 Risk report
+
+.3 Project documents updates
+¢ Assumption log
+¢ Issue log
+¢ Lessons learned register
+

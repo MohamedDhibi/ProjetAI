@@ -1,0 +1,56 @@
+Decision Definition Decision Node Chance Node Net Path Value
+
+Input: Cost of Each Decision wh in Saale dete Computed:
+we Reward if it Occurs .
+Output: Decision Made Payoffs minus Costs
+Output: Expected Monetary along Path
+Value (EMV)
+
+Decision to
+be Made
+
+Strong Demand <4 $80M
+
+($200M)
+$80M = $200M - $120M
+Build New Plant
+
+(Invest $120M)
+$36M = .60 ($80M) + Weak Demand <4 -$30M
+40 (-$30M) ($90M)
+EMV (before costs) of Build -$30M = $90M - $120M
+New Plant considering demand
+
+Decision EMV = $46M
+
+Strong Demand
+(the larger of $36M | Seexgcemand <q s7om
+and $46M) ($120M)
+
+$70M = $120M - $50M
+Upgrade Plant
+
+(Invest $50M)
+Hl Decision Node
+
+$46M = .60 ($70M) + Weak Demand
+
+@ Chance Node -40 ($10M) ($60M)
+
+<4 End of Branch EMV (before costs) of Upgrade $10M = $60M - $50M
+Plant considering demand
+
+Note 1: The decision tree shows how to make a decision between alternative capital strategies (represented as “decision nodes”)
+when the environment contains uncertain elements (represented as “chance nodes”).
+
+Note 2: Here, a decision is being made whether to invest $120M US to build a new plant or to instead invest only $50M US
+to upgrade the existing plant. For each decision, the demand (which is uncertain, and therefore represents a
+“chance node”) must be accounted for. For example, strong demand leads to $200M revenue with the new plant
+but only $120M US for the upgraded plant, perhaps due to capacity limitations of the upgraded plant. The end of
+each branch shows the net effect of the payoffs minus costs. For each decision branch, all effects are added (see
+shaded areas) to determine the overall Expected Monetary Value (EMV) of the decision. Remember to account for
+the investment costs. From the calculations in the shaded areas, the upgraded plant has a higher EMV of $46M -
+
+also the EMV of the overall decision. (This choice also represents the lowest risk, avoiding the worst case possible
+outcome of a loss of $30M).
+

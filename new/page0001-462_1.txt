@@ -1,0 +1,22 @@
+2
+£
+%
+2
+a
+
+Small bubbles
+in this area are
+acceptable
+
+Bubble size = Impact Value
+
+Detectability
+
+Large
+bubbles
+
+in this
+
+area are
+unacceptable
+

@@ -1,0 +1,23 @@
+Activity or Risk Driving
+Projection Duration
+
+Activity B12.3 Manufacture reactors
+
+Risk 5.2 DCS may fail installation test
+
+Risk 5.7 Duplicate test may not be required
+
+Activity A3.12 Construct control room
+
+Risk 4.6 Piling contractor may deliver early
+
+Activity A7.1 Provide temporary facilities
+
+Activity D1.9 Install Equipment
+
+Risk 7.2 Hydrotest may find fewer faults
+
+0.1 0.2 0.3
+
+Correlation with Project Duration
+

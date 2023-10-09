@@ -1,0 +1,10 @@
+Outputs
+
+.1 Change requests
+.2 Project documents updates
+¢ Issue log
+Lessons learned register
+Project team assignments
+Risk register
+Risk report
+
